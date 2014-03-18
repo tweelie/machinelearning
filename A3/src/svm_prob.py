@@ -79,8 +79,10 @@ def grid_search((train_xs, train_ts), (test_xs, test_ts), fun_eval):
 train_data = parse("../parkinsonsTrainStatML.dt")
 test_data = parse("../parkinsonsTestStatML.dt")
 
+print("\nRaw data:\n")
 grid_search(train_data, test_data, raw_eval)
 
+print("\nNormalized data:\n")
 grid_search(train_data, test_data, norm_eval)
 
 # print(str(cross_validate(data, 5, 10, .1, norm_eval)))
