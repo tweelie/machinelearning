@@ -85,6 +85,21 @@ grid_search(train_data, test_data, raw_eval)
 print("\nNormalized data:\n")
 grid_search(train_data, test_data, norm_eval)
 
+(t_xs, t_ts) = train_data
+print("Training data:\n")
+x = 1
+for (mean, var) in map(mean_and_var, np.matrix(t_xs).T.A.tolist()):
+    print("Column: "+str(x)+"\nMean: "+str(mean)+"\nVar: "+str(var)+"\n")
+    x += 1
+fun_norm = many_normalizer(np.matrix(t_xs))
+(te_xs, te_ts) = test_data
+n_te_xs = fun_norm(np.matrix(te_xs))
+print("Normalized test data:\n")
+x = 1
+for (mean, var) in map(mean_and_var, n_te_xs.T.A.tolist()):
+    print("Column: "+str(x)+"\nMean: "+str(mean)+"\nVar: "+str(var)+"\n")
+    x += 1
+
 # print(str(cross_validate(data, 5, 10, .1, norm_eval)))
 # (t_acc, t_ms_err, t_n) = reduce(lambda t1, t2:
 #                                 tuple(map(lambda x, y: x+y, t1, t2)),
