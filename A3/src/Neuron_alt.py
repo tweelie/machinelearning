@@ -153,10 +153,8 @@ def parse(filename):
 train = parse("../sincTrain25.dt")
 validate = parse("../sincValidate10.dt")
 
-hidden_2_ws = [[1, 1]]*2
-hidden_20_ws = [[1, 1]]*20
-output_2_ws = [[1]*3]
-output_20_ws = [[1]*21]
+all_2_ws = [[[1, 1]]]*3
+all_20_ws = [[[1, 1]]]*21
 
 # grad_len = 100.0
 # tmp = 32
@@ -193,8 +191,8 @@ def trainer(netw, plot_title, filename, eta= .1, n_while = .6):
         ms_err = new_ms_err
         print("\nwhile: "+str(d_ms_err*(ms_err**errpow)/(samps**(1.0/smppow))))
         print("grad: "+str(netw.gradient()))
-        print("ws[hidden]: "+str(netw.in_weights))
-        print("ws[out]: "+str(netw.next.in_weights))
+        # print("ws[hidden]: "+str(netw.in_weights))
+        # print("ws[out]: "+str(netw.next.in_weights))
         print("ms_err: "+str(ms_err))
         ysli_vali = map(lambda xs: netw.forward(xs), validate[0])
         trainRMSs += [math.sqrt(ms_error(ysli, tsli))]
@@ -210,48 +208,48 @@ def trainer(netw, plot_title, filename, eta= .1, n_while = .6):
 
 print("\nQ III.1.2:\n")
 print("2 hidden neurons:\n")
-network_2 = init_network([hidden_2_ws, output_2_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+network_2 = init_network(all_2_ws, ([hidden_activ]*2)+[output_activ], ([hidden_activ_deriv]*2)+[output_activ_deriv])
 print("\nEta: 10.0")
 trainer(network_2, "2 neurons, eta = 10", "img/n_2_eta_10.png", 10.0, 10**-12)
 plot.figure(2)
-network_2 = init_network([hidden_2_ws, output_2_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+network_2 = init_network(all_2_ws, ([hidden_activ]*2)+[output_activ], ([hidden_activ_deriv]*2)+[output_activ_deriv])
 print("\nEta: 1.0")
 trainer(network_2, "2 neurons, eta = 1", "img/n_2_eta_1.png", 1.0, 10**-12)
 plot.figure(3)
-network_2 = init_network([hidden_2_ws, output_2_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+network_2 = init_network(all_2_ws, ([hidden_activ]*2)+[output_activ], ([hidden_activ_deriv]*2)+[output_activ_deriv])
 print("\nEta: 0.1")
 trainer(network_2, "2 neurons, eta = .1", "img/n_2_eta_01.png", 0.1, 10**-12)
 plot.figure(4)
 
 
-network_2 = init_network([hidden_2_ws, output_2_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
-for i in range(15):
+network_2 = init_network(all_2_ws, ([hidden_activ]*2)+[output_activ], ([hidden_activ_deriv]*2)+[output_activ_deriv])
+for i in range(20):
     map(lambda (x, t): train_pattern(network_2, x, [t]), zip(train[0], train[1]))
     network_2.apply_and_reset(.1)
 
 
 print("\n20 hidden neurons:\n")
-network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+network_20 = init_network(all_20_ws, ([hidden_activ]*20)+[output_activ], ([hidden_activ_deriv]*20)+[output_activ_deriv])
 print("\nEta: 10.0")
 trainer(network_20, "20 neurons, eta = 10", "img/n_20_eta_10.png", 10.0, 10**-12)
 plot.figure(5)
-network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+network_20 = init_network(all_20_ws, ([hidden_activ]*20)+[output_activ], ([hidden_activ_deriv]*20)+[output_activ_deriv])
 print("\nEta: 1.0")
 trainer(network_20, "20 neurons, eta = 1", "img/n_20_eta_1.png", 1.0, 10**-12)
 plot.figure(6)
-network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+network_20 = init_network(all_20_ws, ([hidden_activ]*20)+[output_activ], ([hidden_activ_deriv]*20)+[output_activ_deriv])
 print("\nEta: 0.1")
 trainer(network_20, "20 neurons, eta = .1", "img/n_20_eta_01.png", 0.1, 10**-12)
 plot.figure(7)
-network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+network_20 = init_network(all_20_ws, ([hidden_activ]*20)+[output_activ], ([hidden_activ_deriv]*20)+[output_activ_deriv])
 print("\nEta: 0.01")
 trainer(network_20, "20 neurons, eta = .01", "img/n_20_eta_001.png", 0.01, 5*10**-9)
 plot.figure(8)
 
-network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
-for i in range(30):
+network_20 = init_network(all_20_ws, ([hidden_activ]*20)+[output_activ], ([hidden_activ_deriv]*20)+[output_activ_deriv])
+for i in range(20):
     map(lambda (x, t): train_pattern(network_20, x, [t]), zip(train[0], train[1]))
-    network_20.apply_and_reset(.01)
+    network_20.apply_and_reset(.1)
 
 sinc = lambda x: math.sin(x)/x
 net2 = lambda x: (network_2.forward([x]))[0]
@@ -266,6 +264,7 @@ plot.plot(x_range, map(net2, x_range), label="2 neurons")
 plot.plot(x_range, map(net20, x_range), label="20 neurons")
 plot.legend()
 plot.savefig("img/nn.png")
+plot.figure(9)
 
 
 # network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])

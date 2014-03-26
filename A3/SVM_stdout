@@ -1,6 +1,8 @@
 
 Raw data:
 
+
+Training without normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 32
 nu = 0.487179
@@ -8,6 +10,8 @@ obj = -0.378438, rho = 0.987447
 nSV = 42, nBSV = 34
 Total nSV = 42
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 28
 nu = 0.512821
@@ -15,6 +19,8 @@ obj = -0.398234, rho = 0.986191
 nSV = 43, nBSV = 38
 Total nSV = 43
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 29
 nu = 0.564103
@@ -22,6 +28,8 @@ obj = -0.434775, rho = 0.950801
 nSV = 45, nBSV = 43
 Total nSV = 45
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 32
 nu = 0.556962
@@ -29,6 +37,8 @@ obj = -0.437963, rho = 0.983331
 nSV = 48, nBSV = 41
 Total nSV = 48
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 36
 nu = 0.531646
@@ -36,6 +46,8 @@ obj = -0.417940, rho = 0.985678
 nSV = 46, nBSV = 36
 Total nSV = 46
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 39
 nu = 0.487179
@@ -43,6 +55,8 @@ obj = -0.378175, rho = 0.992934
 nSV = 53, nBSV = 27
 Total nSV = 53
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 40
 nu = 0.512821
@@ -50,6 +64,8 @@ obj = -0.398149, rho = 0.993506
 nSV = 52, nBSV = 30
 Total nSV = 52
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 42
 nu = 0.564103
@@ -57,6 +73,8 @@ obj = -0.436336, rho = 0.985800
 nSV = 55, nBSV = 32
 Total nSV = 55
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 40
 nu = 0.556962
@@ -64,6 +82,8 @@ obj = -0.438085, rho = 0.992958
 nSV = 55, nBSV = 34
 Total nSV = 55
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 43
 nu = 0.531646
@@ -71,6 +91,8 @@ obj = -0.417825, rho = 0.993047
 nSV = 57, nBSV = 31
 Total nSV = 57
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 64
 nu = 0.487179
@@ -78,6 +100,8 @@ obj = -0.378603, rho = 0.995923
 nSV = 70, nBSV = 21
 Total nSV = 70
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 66
 nu = 0.512821
@@ -85,6 +109,8 @@ obj = -0.398593, rho = 0.995829
 nSV = 72, nBSV = 23
 Total nSV = 72
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 56
 nu = 0.564103
@@ -92,6 +118,8 @@ obj = -0.438071, rho = 0.994643
 nSV = 71, nBSV = 25
 Total nSV = 71
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 59
 nu = 0.556962
@@ -99,6 +127,8 @@ obj = -0.438290, rho = 0.995250
 nSV = 74, nBSV = 25
 Total nSV = 74
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 68
 nu = 0.531646
@@ -106,6 +136,8 @@ obj = -0.418345, rho = 0.995581
 nSV = 76, nBSV = 22
 Total nSV = 76
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.1
 *.*
 optimization finished, #iter = 88
 nu = 0.487179
@@ -113,6 +145,8 @@ obj = -0.378747, rho = 0.996706
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.1
 *.*
 optimization finished, #iter = 88
 nu = 0.512821
@@ -120,6 +154,8 @@ obj = -0.398664, rho = 0.996548
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.1
 *.*
 optimization finished, #iter = 84
 nu = 0.564103
@@ -127,6 +163,8 @@ obj = -0.438461, rho = 0.995995
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.1
 *.*
 optimization finished, #iter = 84
 nu = 0.556962
@@ -134,6 +172,8 @@ obj = -0.438478, rho = 0.996082
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 0.1
 *.*
 optimization finished, #iter = 86
 nu = 0.531646
@@ -141,6 +181,8 @@ obj = -0.418574, rho = 0.996397
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 101
 nu = 0.487179
@@ -148,6 +190,8 @@ obj = -0.378742, rho = 0.996774
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 94
 nu = 0.512821
@@ -155,6 +199,8 @@ obj = -0.398652, rho = 0.996546
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 88
 nu = 0.564103
@@ -162,6 +208,8 @@ obj = -0.438465, rho = 0.996065
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 88
 nu = 0.556962
@@ -169,6 +217,8 @@ obj = -0.438474, rho = 0.996140
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 90
 nu = 0.531646
@@ -176,6 +226,8 @@ obj = -0.418568, rho = 0.996379
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 101
 nu = 0.487179
@@ -183,6 +235,8 @@ obj = -0.378743, rho = 0.996780
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 94
 nu = 0.512821
@@ -190,6 +244,8 @@ obj = -0.398652, rho = 0.996552
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 88
 nu = 0.564103
@@ -197,6 +253,8 @@ obj = -0.438466, rho = 0.996071
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 88
 nu = 0.556962
@@ -204,6 +262,8 @@ obj = -0.438474, rho = 0.996140
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 90
 nu = 0.531646
@@ -211,6 +271,8 @@ obj = -0.418568, rho = 0.996379
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 101
 nu = 0.487179
@@ -218,6 +280,8 @@ obj = -0.378743, rho = 0.996780
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 94
 nu = 0.512821
@@ -225,6 +289,8 @@ obj = -0.398652, rho = 0.996552
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 88
 nu = 0.564103
@@ -232,6 +298,8 @@ obj = -0.438466, rho = 0.996071
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 88
 nu = 0.556962
@@ -239,6 +307,8 @@ obj = -0.438474, rho = 0.996140
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 90
 nu = 0.531646
@@ -246,6 +316,8 @@ obj = -0.418568, rho = 0.996379
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 42
 nu = 0.487179
@@ -253,6 +325,8 @@ obj = -3.644105, rho = 0.874087
 nSV = 43, nBSV = 33
 Total nSV = 43
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 37
 nu = 0.512821
@@ -260,6 +334,8 @@ obj = -3.823829, rho = 0.864209
 nSV = 43, nBSV = 36
 Total nSV = 43
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 28
 nu = 0.564103
@@ -267,6 +343,8 @@ obj = -3.877462, rho = 0.508636
 nSV = 46, nBSV = 43
 Total nSV = 46
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 37
 nu = 0.556962
@@ -274,6 +352,8 @@ obj = -4.196508, rho = 0.835904
 nSV = 49, nBSV = 42
 Total nSV = 49
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 50
 nu = 0.531646
@@ -281,6 +361,8 @@ obj = -3.994261, rho = 0.857875
 nSV = 47, nBSV = 37
 Total nSV = 47
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 61
 nu = 0.487179
@@ -288,6 +370,8 @@ obj = -3.617545, rho = 0.929134
 nSV = 53, nBSV = 27
 Total nSV = 53
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 60
 nu = 0.512821
@@ -295,6 +379,8 @@ obj = -3.815025, rho = 0.935247
 nSV = 57, nBSV = 29
 Total nSV = 57
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.001
 *.*
 optimization finished, #iter = 78
 nu = 0.564103
@@ -302,6 +388,8 @@ obj = -4.034021, rho = 0.859055
 nSV = 55, nBSV = 33
 Total nSV = 55
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 55
 nu = 0.556962
@@ -309,6 +397,8 @@ obj = -4.208567, rho = 0.929655
 nSV = 57, nBSV = 32
 Total nSV = 57
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.001
 *.*
 optimization finished, #iter = 79
 nu = 0.531646
@@ -316,6 +406,8 @@ obj = -3.982845, rho = 0.930374
 nSV = 59, nBSV = 27
 Total nSV = 59
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.01
 *.*
 optimization finished, #iter = 87
 nu = 0.487179
@@ -323,6 +415,8 @@ obj = -3.660414, rho = 0.959285
 nSV = 71, nBSV = 21
 Total nSV = 71
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.01
 *.*
 optimization finished, #iter = 98
 nu = 0.512821
@@ -330,6 +424,8 @@ obj = -3.859435, rho = 0.958263
 nSV = 74, nBSV = 23
 Total nSV = 74
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.01
 *.*
 optimization finished, #iter = 82
 nu = 0.564103
@@ -337,6 +433,8 @@ obj = -4.207310, rho = 0.946489
 nSV = 72, nBSV = 24
 Total nSV = 72
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.01
 *.*
 optimization finished, #iter = 87
 nu = 0.556962
@@ -344,6 +442,8 @@ obj = -4.229217, rho = 0.952336
 nSV = 75, nBSV = 25
 Total nSV = 75
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.01
 *.*
 optimization finished, #iter = 100
 nu = 0.531646
@@ -351,6 +451,8 @@ obj = -4.034695, rho = 0.955927
 nSV = 77, nBSV = 22
 Total nSV = 77
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.1
 .*
 optimization finished, #iter = 125
 nu = 0.487179
@@ -358,6 +460,8 @@ obj = -3.675002, rho = 0.966957
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.1
 .*
 optimization finished, #iter = 117
 nu = 0.512821
@@ -365,6 +469,8 @@ obj = -3.866659, rho = 0.965358
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.1
 .*
 optimization finished, #iter = 134
 nu = 0.564103
@@ -372,6 +478,8 @@ obj = -4.246292, rho = 0.959978
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.1
 .*
 optimization finished, #iter = 114
 nu = 0.556962
@@ -379,6 +487,8 @@ obj = -4.247901, rho = 0.960857
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 0.1
 .*
 optimization finished, #iter = 131
 nu = 0.531646
@@ -386,6 +496,8 @@ obj = -4.057631, rho = 0.963900
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 148
 nu = 0.487179
@@ -393,6 +505,8 @@ obj = -3.674351, rho = 0.967742
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 128
 nu = 0.512821
@@ -400,6 +514,8 @@ obj = -3.865455, rho = 0.965457
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 136
 nu = 0.564103
@@ -407,6 +523,8 @@ obj = -4.246705, rho = 0.960643
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 135
 nu = 0.556962
@@ -414,6 +532,8 @@ obj = -4.247540, rho = 0.961404
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 136
 nu = 0.531646
@@ -421,6 +541,8 @@ obj = -4.056979, rho = 0.963793
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 151
 nu = 0.487179
@@ -428,6 +550,8 @@ obj = -3.674404, rho = 0.967797
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 128
 nu = 0.512821
@@ -435,6 +559,8 @@ obj = -3.865515, rho = 0.965517
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 136
 nu = 0.564103
@@ -442,6 +568,8 @@ obj = -4.246782, rho = 0.960714
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 135
 nu = 0.556962
@@ -449,6 +577,8 @@ obj = -4.247540, rho = 0.961404
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 136
 nu = 0.531646
@@ -456,6 +586,8 @@ obj = -4.056979, rho = 0.963793
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 151
 nu = 0.487179
@@ -463,6 +595,8 @@ obj = -3.674404, rho = 0.967797
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 128
 nu = 0.512821
@@ -470,6 +604,8 @@ obj = -3.865515, rho = 0.965517
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 136
 nu = 0.564103
@@ -477,6 +613,8 @@ obj = -4.246782, rho = 0.960714
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 135
 nu = 0.556962
@@ -484,6 +622,8 @@ obj = -4.247540, rho = 0.961404
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 136
 nu = 0.531646
@@ -491,6 +631,8 @@ obj = -4.056979, rho = 0.963793
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.0001
 *.*
 optimization finished, #iter = 82
 nu = 0.408306
@@ -498,6 +640,8 @@ obj = -27.407353, rho = 0.389977
 nSV = 38, nBSV = 24
 Total nSV = 38
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 51
 nu = 0.419537
@@ -505,6 +649,8 @@ obj = -29.228502, rho = 0.432642
 nSV = 39, nBSV = 28
 Total nSV = 39
 Accuracy = 85% (17/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 50
 nu = 0.367220
@@ -512,6 +658,8 @@ obj = -24.653045, rho = -0.080973
 nSV = 33, nBSV = 24
 Total nSV = 33
 Accuracy = 60% (12/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 59
 nu = 0.459180
@@ -519,6 +667,8 @@ obj = -31.923343, rho = 0.372210
 nSV = 42, nBSV = 30
 Total nSV = 42
 Accuracy = 89.4737% (17/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 58
 nu = 0.430380
@@ -526,6 +676,8 @@ obj = -30.464873, rho = 0.443531
 nSV = 37, nBSV = 29
 Total nSV = 37
 Accuracy = 89.4737% (17/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.001
 *.*
 optimization finished, #iter = 102
 nu = 0.400525
@@ -533,6 +685,8 @@ obj = -24.318311, rho = 0.539513
 nSV = 50, nBSV = 18
 Total nSV = 50
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.001
 *.*
 optimization finished, #iter = 82
 nu = 0.426494
@@ -540,6 +694,8 @@ obj = -26.855273, rho = 0.589590
 nSV = 51, nBSV = 23
 Total nSV = 51
 Accuracy = 85% (17/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.001
 *.*
 optimization finished, #iter = 98
 nu = 0.402815
@@ -547,6 +703,8 @@ obj = -22.864864, rho = 0.289545
 nSV = 47, nBSV = 18
 Total nSV = 47
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.001
 *
 optimization finished, #iter = 78
 nu = 0.469408
@@ -554,6 +712,8 @@ obj = -29.824595, rho = 0.543194
 nSV = 54, nBSV = 24
 Total nSV = 54
 Accuracy = 89.4737% (17/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.001
 *.*
 optimization finished, #iter = 110
 nu = 0.439067
@@ -561,6 +721,8 @@ obj = -27.157540, rho = 0.556166
 nSV = 51, nBSV = 21
 Total nSV = 51
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.01
 .*
 optimization finished, #iter = 118
 nu = 0.480720
@@ -568,6 +730,8 @@ obj = -24.074000, rho = 0.599440
 nSV = 71, nBSV = 20
 Total nSV = 71
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.01
 .*
 optimization finished, #iter = 122
 nu = 0.504633
@@ -575,6 +739,8 @@ obj = -25.980728, rho = 0.591059
 nSV = 74, nBSV = 21
 Total nSV = 74
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.01
 .*
 optimization finished, #iter = 125
 nu = 0.527920
@@ -582,6 +748,8 @@ obj = -25.456907, rho = 0.504183
 nSV = 72, nBSV = 21
 Total nSV = 72
 Accuracy = 85% (17/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.01
 .*
 optimization finished, #iter = 114
 nu = 0.541800
@@ -589,6 +757,8 @@ obj = -27.086160, rho = 0.538760
 nSV = 75, nBSV = 23
 Total nSV = 75
 Accuracy = 89.4737% (17/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.01
 .*
 optimization finished, #iter = 135
 nu = 0.510156
@@ -596,6 +766,8 @@ obj = -25.838925, rho = 0.580029
 nSV = 77, nBSV = 21
 Total nSV = 77
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.1
 .*
 optimization finished, #iter = 154
 nu = 0.487179
@@ -603,6 +775,8 @@ obj = -25.500286, rho = 0.669590
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.1
 .*
 optimization finished, #iter = 148
 nu = 0.512821
@@ -610,6 +784,8 @@ obj = -26.666090, rho = 0.653477
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.1
 .*.*
 optimization finished, #iter = 158
 nu = 0.564103
@@ -617,6 +793,8 @@ obj = -28.629236, rho = 0.599710
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1, gamma: 0.1
 .*
 optimization finished, #iter = 150
 nu = 0.556962
@@ -624,6 +802,8 @@ obj = -28.790224, rho = 0.608568
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1, gamma: 0.1
 .*.*
 optimization finished, #iter = 161
 nu = 0.531646
@@ -631,6 +811,8 @@ obj = -27.763192, rho = 0.638981
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 196
 nu = 0.487179
@@ -638,6 +820,8 @@ obj = -25.435470, rho = 0.677418
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 167
 nu = 0.512821
@@ -645,6 +829,8 @@ obj = -26.545754, rho = 0.654576
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 191
 nu = 0.564103
@@ -652,6 +838,8 @@ obj = -28.670816, rho = 0.606438
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 192
 nu = 0.556962
@@ -659,6 +847,8 @@ obj = -28.754390, rho = 0.614036
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 196
 nu = 0.531646
@@ -666,6 +856,8 @@ obj = -27.698271, rho = 0.637931
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 197
 nu = 0.487179
@@ -673,6 +865,8 @@ obj = -25.440673, rho = 0.677966
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 178
 nu = 0.512821
@@ -680,6 +874,8 @@ obj = -26.551722, rho = 0.655172
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 184
 nu = 0.564103
@@ -687,6 +883,8 @@ obj = -28.678566, rho = 0.607143
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 191
 nu = 0.556962
@@ -694,6 +892,8 @@ obj = -28.754381, rho = 0.614035
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 196
 nu = 0.531646
@@ -701,6 +901,8 @@ obj = -27.698271, rho = 0.637931
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 197
 nu = 0.487179
@@ -708,6 +910,8 @@ obj = -25.440673, rho = 0.677966
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 178
 nu = 0.512821
@@ -715,6 +919,8 @@ obj = -26.551722, rho = 0.655172
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 184
 nu = 0.564103
@@ -722,6 +928,8 @@ obj = -28.678566, rho = 0.607143
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 191
 nu = 0.556962
@@ -729,6 +937,8 @@ obj = -28.754381, rho = 0.614035
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 196
 nu = 0.531646
@@ -736,6 +946,8 @@ obj = -27.698271, rho = 0.637931
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.0001
 .
 WARNING: using -h 0 may be faster
 *.*
@@ -745,6 +957,8 @@ obj = -212.641133, rho = 0.174911
 nSV = 33, nBSV = 17
 Total nSV = 33
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.0001
 *.*
 optimization finished, #iter = 93
 nu = 0.323564
@@ -752,6 +966,8 @@ obj = -233.489570, rho = 0.034088
 nSV = 35, nBSV = 22
 Total nSV = 35
 Accuracy = 85% (17/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.0001
 .*.*
 optimization finished, #iter = 165
 nu = 0.256209
@@ -759,6 +975,8 @@ obj = -183.831279, rho = -0.120984
 nSV = 30, nBSV = 14
 Total nSV = 30
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.0001
 .*
 optimization finished, #iter = 138
 nu = 0.351391
@@ -766,6 +984,8 @@ obj = -259.213701, rho = 0.164250
 nSV = 37, nBSV = 22
 Total nSV = 37
 Accuracy = 89.4737% (17/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.0001
 ..*..*
 optimization finished, #iter = 344
 nu = 0.329810
@@ -773,6 +993,8 @@ obj = -240.999497, rho = 0.110890
 nSV = 39, nBSV = 21
 Total nSV = 39
 Accuracy = 89.4737% (17/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.001
 .*
 optimization finished, #iter = 107
 nu = 0.191423
@@ -780,6 +1002,8 @@ obj = -106.772113, rho = 0.351974
 nSV = 41, nBSV = 7
 Total nSV = 41
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.001
 .*
 optimization finished, #iter = 124
 nu = 0.238012
@@ -787,6 +1011,8 @@ obj = -128.327851, rho = 0.420722
 nSV = 44, nBSV = 11
 Total nSV = 44
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.001
 .*
 optimization finished, #iter = 127
 nu = 0.173506
@@ -794,6 +1020,8 @@ obj = -98.777072, rho = 0.194238
 nSV = 42, nBSV = 7
 Total nSV = 42
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.001
 .*
 optimization finished, #iter = 118
 nu = 0.241970
@@ -801,6 +1029,8 @@ obj = -131.593242, rho = 0.355521
 nSV = 44, nBSV = 10
 Total nSV = 44
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.001
 .*
 optimization finished, #iter = 147
 nu = 0.202200
@@ -808,6 +1038,8 @@ obj = -107.076027, rho = 0.403873
 nSV = 46, nBSV = 6
 Total nSV = 46
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.01
 .*.*
 optimization finished, #iter = 159
 nu = 0.100139
@@ -815,6 +1047,8 @@ obj = -47.390837, rho = 0.478624
 nSV = 69, nBSV = 1
 Total nSV = 69
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.01
 .*.*
 optimization finished, #iter = 161
 nu = 0.131488
@@ -822,6 +1056,8 @@ obj = -60.842196, rho = 0.467019
 nSV = 71, nBSV = 2
 Total nSV = 71
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.01
 .*
 optimization finished, #iter = 152
 nu = 0.103716
@@ -829,6 +1065,8 @@ obj = -48.399741, rho = 0.382672
 nSV = 69, nBSV = 1
 Total nSV = 69
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.01
 .*.*
 optimization finished, #iter = 158
 nu = 0.118029
@@ -836,6 +1074,8 @@ obj = -58.003332, rho = 0.445239
 nSV = 72, nBSV = 2
 Total nSV = 72
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.01
 .*
 optimization finished, #iter = 155
 nu = 0.110794
@@ -843,6 +1083,8 @@ obj = -48.489848, rho = 0.486291
 nSV = 74, nBSV = 3
 Total nSV = 74
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.1
 *.*
 optimization finished, #iter = 131
 nu = 0.074235
@@ -850,6 +1092,8 @@ obj = -28.952084, rho = 0.499068
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.1
 .*.*
 optimization finished, #iter = 163
 nu = 0.077120
@@ -857,6 +1101,8 @@ obj = -30.077665, rho = 0.481587
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.1
 ..*
 optimization finished, #iter = 199
 nu = 0.080862
@@ -864,6 +1110,8 @@ obj = -31.536259, rho = 0.427773
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10, gamma: 0.1
 .*.*
 optimization finished, #iter = 187
 nu = 0.080792
@@ -871,6 +1119,8 @@ obj = -31.912336, rho = 0.435373
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10, gamma: 0.1
 .*.*
 optimization finished, #iter = 193
 nu = 0.078484
@@ -878,6 +1128,8 @@ obj = -31.000809, rho = 0.468090
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10, gamma: 1
 .*.*
 optimization finished, #iter = 209
 nu = 0.073674
@@ -885,6 +1137,8 @@ obj = -28.731684, rho = 0.512193
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10, gamma: 1
 .*.*
 optimization finished, #iter = 192
 nu = 0.076231
@@ -892,6 +1146,8 @@ obj = -29.730394, rho = 0.486520
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10, gamma: 1
 .*.*
 optimization finished, #iter = 212
 nu = 0.080958
@@ -899,6 +1155,8 @@ obj = -31.573756, rho = 0.435171
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10, gamma: 1
 ..*.*
 optimization finished, #iter = 238
 nu = 0.080380
@@ -906,6 +1164,8 @@ obj = -31.746846, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10, gamma: 1
 .*.*
 optimization finished, #iter = 163
 nu = 0.078061
@@ -913,6 +1173,8 @@ obj = -30.835435, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 217
 nu = 0.073713
@@ -920,6 +1182,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 218
 nu = 0.076252
@@ -927,6 +1191,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 200
 nu = 0.081010
@@ -934,6 +1200,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10, gamma: 10
 ..*.*
 optimization finished, #iter = 238
 nu = 0.080357
@@ -941,6 +1209,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 163
 nu = 0.078083
@@ -948,6 +1218,8 @@ obj = -30.835434, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.073708
@@ -955,6 +1227,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.076257
@@ -962,6 +1236,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.081015
@@ -969,6 +1245,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.080357
@@ -976,6 +1254,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.078083
@@ -983,6 +1263,8 @@ obj = -30.835434, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.0001
 ....*.*
 optimization finished, #iter = 461
 nu = 0.235080
@@ -990,6 +1272,8 @@ obj = -1602.020561, rho = -0.293451
 nSV = 32, nBSV = 13
 Total nSV = 32
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.0001
 .....*..*
 optimization finished, #iter = 548
 nu = 0.264009
@@ -997,6 +1281,8 @@ obj = -1779.386498, rho = -0.157962
 nSV = 33, nBSV = 15
 Total nSV = 33
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.0001
 ....*...*
 optimization finished, #iter = 572
 nu = 0.208428
@@ -1004,6 +1290,8 @@ obj = -1491.403813, rho = -0.483875
 nSV = 29, nBSV = 10
 Total nSV = 29
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.0001
 ....*..*
 optimization finished, #iter = 535
 nu = 0.298202
@@ -1011,6 +1299,8 @@ obj = -2124.477563, rho = -0.469812
 nSV = 40, nBSV = 19
 Total nSV = 40
 Accuracy = 94.7368% (18/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.0001
 ....*.*
 optimization finished, #iter = 414
 nu = 0.265375
@@ -1018,6 +1308,8 @@ obj = -1845.764853, rho = -0.262625
 nSV = 35, nBSV = 15
 Total nSV = 35
 Accuracy = 89.4737% (17/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.001
 .*.*
 optimization finished, #iter = 172
 nu = 0.073868
@@ -1025,6 +1317,8 @@ obj = -425.899792, rho = 0.312957
 nSV = 36, nBSV = 2
 Total nSV = 36
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.001
 .*.*
 optimization finished, #iter = 164
 nu = 0.098518
@@ -1032,6 +1326,8 @@ obj = -636.144135, rho = 0.406778
 nSV = 39, nBSV = 5
 Total nSV = 39
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.001
 .*.*
 optimization finished, #iter = 165
 nu = 0.068439
@@ -1039,6 +1335,8 @@ obj = -386.681328, rho = 0.120560
 nSV = 37, nBSV = 2
 Total nSV = 37
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.001
 ..*
 optimization finished, #iter = 221
 nu = 0.089673
@@ -1046,6 +1344,8 @@ obj = -553.437764, rho = 0.365744
 nSV = 41, nBSV = 4
 Total nSV = 41
 Accuracy = 63.1579% (12/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.001
 ..*
 optimization finished, #iter = 222
 nu = 0.067634
@@ -1053,6 +1353,8 @@ obj = -432.079595, rho = 0.535835
 nSV = 45, nBSV = 3
 Total nSV = 45
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.01
 .*
 optimization finished, #iter = 154
 nu = 0.016993
@@ -1060,6 +1362,8 @@ obj = -66.281044, rho = 0.519868
 nSV = 67, nBSV = 0
 Total nSV = 67
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.01
 .*.*
 optimization finished, #iter = 211
 nu = 0.017579
@@ -1067,6 +1371,8 @@ obj = -68.564525, rho = 0.472319
 nSV = 70, nBSV = 0
 Total nSV = 70
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.01
 .*.*
 optimization finished, #iter = 185
 nu = 0.016386
@@ -1074,6 +1380,8 @@ obj = -63.913166, rho = 0.395684
 nSV = 70, nBSV = 0
 Total nSV = 70
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.01
 .*.*
 optimization finished, #iter = 213
 nu = 0.017861
@@ -1081,6 +1389,8 @@ obj = -70.552893, rho = 0.475367
 nSV = 71, nBSV = 0
 Total nSV = 71
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.01
 .*.*
 optimization finished, #iter = 164
 nu = 0.012710
@@ -1088,6 +1398,8 @@ obj = -50.204816, rho = 0.497530
 nSV = 74, nBSV = 0
 Total nSV = 74
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.1
 *.*
 optimization finished, #iter = 131
 nu = 0.007423
@@ -1095,6 +1407,8 @@ obj = -28.952084, rho = 0.499068
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.1
 .*.*
 optimization finished, #iter = 163
 nu = 0.007712
@@ -1102,6 +1416,8 @@ obj = -30.077665, rho = 0.481587
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.1
 ..*
 optimization finished, #iter = 199
 nu = 0.008086
@@ -1109,6 +1425,8 @@ obj = -31.536259, rho = 0.427773
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 100, gamma: 0.1
 .*.*
 optimization finished, #iter = 187
 nu = 0.008079
@@ -1116,6 +1434,8 @@ obj = -31.912336, rho = 0.435373
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 100, gamma: 0.1
 .*.*
 optimization finished, #iter = 193
 nu = 0.007848
@@ -1123,6 +1443,8 @@ obj = -31.000809, rho = 0.468090
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 100, gamma: 1
 .*.*
 optimization finished, #iter = 209
 nu = 0.007367
@@ -1130,6 +1452,8 @@ obj = -28.731684, rho = 0.512193
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 100, gamma: 1
 .*.*
 optimization finished, #iter = 192
 nu = 0.007623
@@ -1137,6 +1461,8 @@ obj = -29.730394, rho = 0.486520
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 100, gamma: 1
 .*.*
 optimization finished, #iter = 212
 nu = 0.008096
@@ -1144,6 +1470,8 @@ obj = -31.573756, rho = 0.435171
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 100, gamma: 1
 ..*.*
 optimization finished, #iter = 238
 nu = 0.008038
@@ -1151,6 +1479,8 @@ obj = -31.746846, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 100, gamma: 1
 .*.*
 optimization finished, #iter = 163
 nu = 0.007806
@@ -1158,6 +1488,8 @@ obj = -30.835435, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 217
 nu = 0.007371
@@ -1165,6 +1497,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 218
 nu = 0.007625
@@ -1172,6 +1506,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 200
 nu = 0.008101
@@ -1179,6 +1515,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 100, gamma: 10
 ..*.*
 optimization finished, #iter = 238
 nu = 0.008036
@@ -1186,6 +1524,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 163
 nu = 0.007808
@@ -1193,6 +1533,8 @@ obj = -30.835434, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.007371
@@ -1200,6 +1542,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.007626
@@ -1207,6 +1551,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.008101
@@ -1214,6 +1560,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 100, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.008036
@@ -1221,6 +1569,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.007808
@@ -1228,6 +1578,8 @@ obj = -30.835434, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.0001
 ..................*.................*
 optimization finished, #iter = 2735
 nu = 0.147129
@@ -1235,6 +1587,8 @@ obj = -8926.230122, rho = -2.050221
 nSV = 32, nBSV = 7
 Total nSV = 32
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.0001
 .....................*..................*
 optimization finished, #iter = 3051
 nu = 0.157908
@@ -1242,6 +1596,8 @@ obj = -9568.284368, rho = 1.972296
 nSV = 33, nBSV = 6
 Total nSV = 33
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.0001
 ...........*.......*
 optimization finished, #iter = 1459
 nu = 0.158294
@@ -1249,6 +1605,8 @@ obj = -10196.679141, rho = -3.854719
 nSV = 28, nBSV = 7
 Total nSV = 28
 Accuracy = 55% (11/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.0001
 .......................*..............*
 optimization finished, #iter = 2923
 nu = 0.209987
@@ -1256,6 +1614,8 @@ obj = -12441.392197, rho = -2.424498
 nSV = 37, nBSV = 10
 Total nSV = 37
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.0001
 .....................*..........*
 optimization finished, #iter = 2451
 nu = 0.181386
@@ -1263,6 +1623,8 @@ obj = -10658.904024, rho = -1.270911
 nSV = 35, nBSV = 6
 Total nSV = 35
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.001
 ..*
 optimization finished, #iter = 230
 nu = 0.036698
@@ -1270,6 +1632,8 @@ obj = -2106.033270, rho = 0.817633
 nSV = 34, nBSV = 1
 Total nSV = 34
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.001
 ......*...*
 optimization finished, #iter = 768
 nu = 0.056031
@@ -1277,6 +1641,8 @@ obj = -2185.187485, rho = 0.348151
 nSV = 38, nBSV = 0
 Total nSV = 38
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.001
 ..*.*
 optimization finished, #iter = 274
 nu = 0.035118
@@ -1284,6 +1650,8 @@ obj = -1650.704353, rho = 0.159018
 nSV = 36, nBSV = 1
 Total nSV = 36
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.001
 ....*.*
 optimization finished, #iter = 410
 nu = 0.055533
@@ -1291,6 +1659,8 @@ obj = -2354.103646, rho = 1.281279
 nSV = 32, nBSV = 2
 Total nSV = 32
 Accuracy = 68.4211% (13/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.001
 ....*.*
 optimization finished, #iter = 410
 nu = 0.037000
@@ -1298,6 +1668,8 @@ obj = -1461.755541, rho = 1.643297
 nSV = 34, nBSV = 0
 Total nSV = 34
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.01
 .*
 optimization finished, #iter = 154
 nu = 0.001699
@@ -1305,6 +1677,8 @@ obj = -66.281044, rho = 0.519868
 nSV = 67, nBSV = 0
 Total nSV = 67
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.01
 .*.*
 optimization finished, #iter = 211
 nu = 0.001758
@@ -1312,6 +1686,8 @@ obj = -68.564525, rho = 0.472319
 nSV = 70, nBSV = 0
 Total nSV = 70
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.01
 .*.*
 optimization finished, #iter = 185
 nu = 0.001639
@@ -1319,6 +1695,8 @@ obj = -63.913166, rho = 0.395684
 nSV = 70, nBSV = 0
 Total nSV = 70
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.01
 .*.*
 optimization finished, #iter = 213
 nu = 0.001786
@@ -1326,6 +1704,8 @@ obj = -70.552893, rho = 0.475367
 nSV = 71, nBSV = 0
 Total nSV = 71
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.01
 .*.*
 optimization finished, #iter = 164
 nu = 0.001271
@@ -1333,6 +1713,8 @@ obj = -50.204816, rho = 0.497530
 nSV = 74, nBSV = 0
 Total nSV = 74
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.1
 *.*
 optimization finished, #iter = 131
 nu = 0.000742
@@ -1340,6 +1722,8 @@ obj = -28.952084, rho = 0.499068
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.1
 .*.*
 optimization finished, #iter = 163
 nu = 0.000771
@@ -1347,6 +1731,8 @@ obj = -30.077665, rho = 0.481587
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.1
 ..*
 optimization finished, #iter = 199
 nu = 0.000809
@@ -1354,6 +1740,8 @@ obj = -31.536259, rho = 0.427773
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1000, gamma: 0.1
 .*.*
 optimization finished, #iter = 187
 nu = 0.000808
@@ -1361,6 +1749,8 @@ obj = -31.912336, rho = 0.435373
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1000, gamma: 0.1
 .*.*
 optimization finished, #iter = 193
 nu = 0.000785
@@ -1368,6 +1758,8 @@ obj = -31.000809, rho = 0.468090
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1000, gamma: 1
 .*.*
 optimization finished, #iter = 209
 nu = 0.000737
@@ -1375,6 +1767,8 @@ obj = -28.731684, rho = 0.512193
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1000, gamma: 1
 .*.*
 optimization finished, #iter = 192
 nu = 0.000762
@@ -1382,6 +1776,8 @@ obj = -29.730394, rho = 0.486520
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1000, gamma: 1
 .*.*
 optimization finished, #iter = 212
 nu = 0.000810
@@ -1389,6 +1785,8 @@ obj = -31.573756, rho = 0.435171
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1000, gamma: 1
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000804
@@ -1396,6 +1794,8 @@ obj = -31.746846, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1000, gamma: 1
 .*.*
 optimization finished, #iter = 163
 nu = 0.000781
@@ -1403,6 +1803,8 @@ obj = -30.835435, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 217
 nu = 0.000737
@@ -1410,6 +1812,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 218
 nu = 0.000763
@@ -1417,6 +1821,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 200
 nu = 0.000810
@@ -1424,6 +1830,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1000, gamma: 10
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000804
@@ -1431,6 +1839,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 163
 nu = 0.000781
@@ -1438,6 +1848,8 @@ obj = -30.835434, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.000737
@@ -1445,6 +1857,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.000763
@@ -1452,6 +1866,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.000810
@@ -1459,6 +1875,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 1000, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000804
@@ -1466,6 +1884,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.000781
@@ -1473,6 +1893,8 @@ obj = -30.835434, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.0001
 .................................*..............*
 optimization finished, #iter = 3737
 nu = 0.066768
@@ -1480,6 +1902,8 @@ obj = -38191.494823, rho = -3.156312
 nSV = 27, nBSV = 2
 Total nSV = 27
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.0001
 ....................*...........*
 optimization finished, #iter = 2482
 nu = 0.087708
@@ -1487,6 +1911,8 @@ obj = -57367.499940, rho = -0.944115
 nSV = 27, nBSV = 4
 Total nSV = 27
 Accuracy = 85% (17/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.0001
 ...............................*.......*
 optimization finished, #iter = 2965
 nu = 0.080360
@@ -1494,6 +1920,8 @@ obj = -44367.607031, rho = -9.154037
 nSV = 25, nBSV = 3
 Total nSV = 25
 Accuracy = 55% (11/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.0001
 ..........................................*.................................*
 optimization finished, #iter = 5982
 nu = 0.091460
@@ -1501,6 +1929,8 @@ obj = -55357.784849, rho = -5.378516
 nSV = 35, nBSV = 4
 Total nSV = 35
 Accuracy = 68.4211% (13/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.0001
 .................................*.................................................*
 optimization finished, #iter = 6529
 nu = 0.081430
@@ -1508,6 +1938,8 @@ obj = -42743.976791, rho = -4.395109
 nSV = 30, nBSV = 2
 Total nSV = 30
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.001
 .....*..*
 optimization finished, #iter = 553
 nu = 0.007562
@@ -1515,6 +1947,8 @@ obj = -2949.565127, rho = 2.256996
 nSV = 25, nBSV = 0
 Total nSV = 25
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.001
 ......*...*
 optimization finished, #iter = 768
 nu = 0.005603
@@ -1522,6 +1956,8 @@ obj = -2185.187485, rho = 0.348151
 nSV = 38, nBSV = 0
 Total nSV = 38
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.001
 ....*..*
 optimization finished, #iter = 491
 nu = 0.004472
@@ -1529,6 +1965,8 @@ obj = -1744.420818, rho = 0.187155
 nSV = 36, nBSV = 0
 Total nSV = 36
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.001
 .......*...*
 optimization finished, #iter = 821
 nu = 0.006016
@@ -1536,6 +1974,8 @@ obj = -2376.339020, rho = 1.289833
 nSV = 31, nBSV = 0
 Total nSV = 31
 Accuracy = 68.4211% (13/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.001
 ....*.*
 optimization finished, #iter = 410
 nu = 0.003700
@@ -1543,6 +1983,8 @@ obj = -1461.755541, rho = 1.643297
 nSV = 34, nBSV = 0
 Total nSV = 34
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.01
 .*
 optimization finished, #iter = 154
 nu = 0.000170
@@ -1550,6 +1992,8 @@ obj = -66.281044, rho = 0.519868
 nSV = 67, nBSV = 0
 Total nSV = 67
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.01
 .*.*
 optimization finished, #iter = 211
 nu = 0.000176
@@ -1557,6 +2001,8 @@ obj = -68.564525, rho = 0.472319
 nSV = 70, nBSV = 0
 Total nSV = 70
 Accuracy = 75% (15/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.01
 .*.*
 optimization finished, #iter = 185
 nu = 0.000164
@@ -1564,6 +2010,8 @@ obj = -63.913166, rho = 0.395684
 nSV = 70, nBSV = 0
 Total nSV = 70
 Accuracy = 90% (18/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.01
 .*.*
 optimization finished, #iter = 213
 nu = 0.000179
@@ -1571,6 +2019,8 @@ obj = -70.552893, rho = 0.475367
 nSV = 71, nBSV = 0
 Total nSV = 71
 Accuracy = 84.2105% (16/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.01
 .*.*
 optimization finished, #iter = 164
 nu = 0.000127
@@ -1578,6 +2028,8 @@ obj = -50.204816, rho = 0.497530
 nSV = 74, nBSV = 0
 Total nSV = 74
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.1
 *.*
 optimization finished, #iter = 131
 nu = 0.000074
@@ -1585,6 +2037,8 @@ obj = -28.952084, rho = 0.499068
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.1
 .*.*
 optimization finished, #iter = 163
 nu = 0.000077
@@ -1592,6 +2046,8 @@ obj = -30.077665, rho = 0.481587
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.1
 ..*
 optimization finished, #iter = 199
 nu = 0.000081
@@ -1599,6 +2055,8 @@ obj = -31.536259, rho = 0.427773
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10000, gamma: 0.1
 .*.*
 optimization finished, #iter = 187
 nu = 0.000081
@@ -1606,6 +2064,8 @@ obj = -31.912336, rho = 0.435373
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10000, gamma: 0.1
 .*.*
 optimization finished, #iter = 193
 nu = 0.000078
@@ -1613,6 +2073,8 @@ obj = -31.000809, rho = 0.468090
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10000, gamma: 1
 .*.*
 optimization finished, #iter = 209
 nu = 0.000074
@@ -1620,6 +2082,8 @@ obj = -28.731684, rho = 0.512193
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10000, gamma: 1
 .*.*
 optimization finished, #iter = 192
 nu = 0.000076
@@ -1627,6 +2091,8 @@ obj = -29.730394, rho = 0.486520
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10000, gamma: 1
 .*.*
 optimization finished, #iter = 212
 nu = 0.000081
@@ -1634,6 +2100,8 @@ obj = -31.573756, rho = 0.435171
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10000, gamma: 1
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000080
@@ -1641,6 +2109,8 @@ obj = -31.746846, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10000, gamma: 1
 .*.*
 optimization finished, #iter = 163
 nu = 0.000078
@@ -1648,6 +2118,8 @@ obj = -30.835435, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 217
 nu = 0.000074
@@ -1655,6 +2127,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 218
 nu = 0.000076
@@ -1662,6 +2136,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 200
 nu = 0.000081
@@ -1669,6 +2145,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10000, gamma: 10
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000080
@@ -1676,6 +2154,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 163
 nu = 0.000078
@@ -1683,6 +2163,8 @@ obj = -30.835434, rho = 0.468354
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training without normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.000074
@@ -1690,6 +2172,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training without normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.000076
@@ -1697,6 +2181,8 @@ obj = -29.743586, rho = 0.487179
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training without normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.000081
@@ -1704,6 +2190,8 @@ obj = -31.589735, rho = 0.435897
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training without normalization, C: 10000, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000080
@@ -1711,6 +2199,8 @@ obj = -31.746827, rho = 0.443038
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training without normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.000078
@@ -1971,6 +2461,8 @@ gamma: 0.0001
 Accuracy: 83.6734693878%
 RMS Error: 0.808122035642
 
+
+Training without normalization, C: 100, gamma: 0.0001
 .....*..*
 optimization finished, #iter = 705
 nu = 0.257807
@@ -1988,6 +2480,8 @@ RMS Error: 0.78648375764
 
 Normalized data:
 
+
+Training with normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 19
 nu = 0.487179
@@ -1995,6 +2489,8 @@ obj = -0.379991, rho = 0.999829
 nSV = 38, nBSV = 38
 Total nSV = 38
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 20
 nu = 0.512821
@@ -2002,6 +2498,8 @@ obj = -0.399987, rho = 0.999787
 nSV = 40, nBSV = 40
 Total nSV = 40
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 22
 nu = 0.564103
@@ -2009,6 +2507,8 @@ obj = -0.439982, rho = 0.999785
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 22
 nu = 0.556962
@@ -2016,6 +2516,8 @@ obj = -0.439986, rho = 0.999785
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.0001
 *
 optimization finished, #iter = 21
 nu = 0.531646
@@ -2023,6 +2525,8 @@ obj = -0.419986, rho = 0.999802
 nSV = 42, nBSV = 42
 Total nSV = 42
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 19
 nu = 0.487179
@@ -2030,6 +2534,8 @@ obj = -0.379906, rho = 0.998320
 nSV = 38, nBSV = 38
 Total nSV = 38
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 21
 nu = 0.512821
@@ -2037,6 +2543,8 @@ obj = -0.399880, rho = 0.998000
 nSV = 40, nBSV = 40
 Total nSV = 40
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 22
 nu = 0.564103
@@ -2044,6 +2552,8 @@ obj = -0.439825, rho = 0.997894
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 23
 nu = 0.556962
@@ -2051,6 +2561,8 @@ obj = -0.439870, rho = 0.998057
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.001
 *
 optimization finished, #iter = 22
 nu = 0.531646
@@ -2058,6 +2570,8 @@ obj = -0.419876, rho = 0.998044
 nSV = 42, nBSV = 42
 Total nSV = 42
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 23
 nu = 0.487179
@@ -2065,6 +2579,8 @@ obj = -0.379237, rho = 0.992708
 nSV = 40, nBSV = 36
 Total nSV = 40
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 28
 nu = 0.512821
@@ -2072,6 +2588,8 @@ obj = -0.399079, rho = 0.990490
 nSV = 43, nBSV = 39
 Total nSV = 43
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 25
 nu = 0.564103
@@ -2079,6 +2597,8 @@ obj = -0.438644, rho = 0.991098
 nSV = 45, nBSV = 43
 Total nSV = 45
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 27
 nu = 0.556962
@@ -2086,6 +2606,8 @@ obj = -0.438990, rho = 0.990053
 nSV = 47, nBSV = 42
 Total nSV = 47
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.01
 *
 optimization finished, #iter = 28
 nu = 0.531646
@@ -2093,6 +2615,8 @@ obj = -0.419052, rho = 0.992730
 nSV = 44, nBSV = 41
 Total nSV = 44
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.1
 *
 optimization finished, #iter = 44
 nu = 0.487179
@@ -2100,6 +2624,8 @@ obj = -0.377855, rho = 0.993536
 nSV = 54, nBSV = 26
 Total nSV = 54
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.1
 *
 optimization finished, #iter = 46
 nu = 0.512821
@@ -2107,6 +2633,8 @@ obj = -0.397637, rho = 0.993305
 nSV = 56, nBSV = 31
 Total nSV = 56
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.1
 *
 optimization finished, #iter = 47
 nu = 0.564103
@@ -2114,6 +2642,8 @@ obj = -0.436310, rho = 0.990663
 nSV = 57, nBSV = 32
 Total nSV = 57
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.1
 *
 optimization finished, #iter = 49
 nu = 0.556962
@@ -2121,6 +2651,8 @@ obj = -0.437293, rho = 0.991358
 nSV = 58, nBSV = 30
 Total nSV = 58
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 0.1
 *
 optimization finished, #iter = 45
 nu = 0.531646
@@ -2128,6 +2660,8 @@ obj = -0.417373, rho = 0.992969
 nSV = 56, nBSV = 31
 Total nSV = 56
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 82
 nu = 0.487179
@@ -2135,6 +2669,8 @@ obj = -0.378585, rho = 0.996558
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 83
 nu = 0.512821
@@ -2142,6 +2678,8 @@ obj = -0.398267, rho = 0.996361
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 87
 nu = 0.564103
@@ -2149,6 +2687,8 @@ obj = -0.437944, rho = 0.995803
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 85
 nu = 0.556962
@@ -2156,6 +2696,8 @@ obj = -0.438043, rho = 0.995889
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 1
 *.*
 optimization finished, #iter = 83
 nu = 0.531646
@@ -2163,6 +2705,8 @@ obj = -0.418185, rho = 0.996108
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 101
 nu = 0.487179
@@ -2170,6 +2714,8 @@ obj = -0.378740, rho = 0.996780
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 94
 nu = 0.512821
@@ -2177,6 +2723,8 @@ obj = -0.398610, rho = 0.996552
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 88
 nu = 0.564103
@@ -2184,6 +2732,8 @@ obj = -0.438385, rho = 0.996071
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 88
 nu = 0.556962
@@ -2191,6 +2741,8 @@ obj = -0.438398, rho = 0.996140
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 10
 *.*
 optimization finished, #iter = 90
 nu = 0.531646
@@ -2198,6 +2750,8 @@ obj = -0.418521, rho = 0.996379
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 101
 nu = 0.487179
@@ -2205,6 +2759,8 @@ obj = -0.378743, rho = 0.996780
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 94
 nu = 0.512821
@@ -2212,6 +2768,8 @@ obj = -0.398652, rho = 0.996552
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 88
 nu = 0.564103
@@ -2219,6 +2777,8 @@ obj = -0.438466, rho = 0.996071
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 88
 nu = 0.556962
@@ -2226,6 +2786,8 @@ obj = -0.438474, rho = 0.996140
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.01, gamma: 100
 *.*
 optimization finished, #iter = 90
 nu = 0.531646
@@ -2233,6 +2795,8 @@ obj = -0.418568, rho = 0.996379
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 19
 nu = 0.487179
@@ -2240,6 +2804,8 @@ obj = -3.799051, rho = 0.998289
 nSV = 38, nBSV = 38
 Total nSV = 38
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 21
 nu = 0.512821
@@ -2247,6 +2813,8 @@ obj = -3.998781, rho = 0.997954
 nSV = 40, nBSV = 40
 Total nSV = 40
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 22
 nu = 0.564103
@@ -2254,6 +2822,8 @@ obj = -4.398232, rho = 0.997852
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 23
 nu = 0.556962
@@ -2261,6 +2831,8 @@ obj = -4.398684, rho = 0.997997
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.0001
 *
 optimization finished, #iter = 22
 nu = 0.531646
@@ -2268,6 +2840,8 @@ obj = -4.198750, rho = 0.998002
 nSV = 42, nBSV = 42
 Total nSV = 42
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 20
 nu = 0.487179
@@ -2275,6 +2849,8 @@ obj = -3.791017, rho = 0.984004
 nSV = 38, nBSV = 38
 Total nSV = 38
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 23
 nu = 0.512821
@@ -2282,6 +2858,8 @@ obj = -3.988828, rho = 0.980958
 nSV = 40, nBSV = 40
 Total nSV = 40
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 24
 nu = 0.564103
@@ -2289,6 +2867,8 @@ obj = -4.383827, rho = 0.979778
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 25
 nu = 0.556962
@@ -2296,6 +2876,8 @@ obj = -4.387655, rho = 0.978288
 nSV = 45, nBSV = 43
 Total nSV = 45
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.001
 *
 optimization finished, #iter = 25
 nu = 0.531646
@@ -2303,6 +2885,8 @@ obj = -4.188657, rho = 0.983539
 nSV = 43, nBSV = 41
 Total nSV = 43
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.01
 *
 optimization finished, #iter = 27
 nu = 0.487179
@@ -2310,6 +2894,8 @@ obj = -3.723705, rho = 0.927728
 nSV = 41, nBSV = 36
 Total nSV = 41
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.01
 *
 optimization finished, #iter = 31
 nu = 0.512821
@@ -2317,6 +2903,8 @@ obj = -3.907991, rho = 0.905408
 nSV = 42, nBSV = 38
 Total nSV = 42
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.01
 *
 optimization finished, #iter = 25
 nu = 0.564103
@@ -2324,6 +2912,8 @@ obj = -4.264391, rho = 0.910975
 nSV = 45, nBSV = 43
 Total nSV = 45
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.01
 *
 optimization finished, #iter = 36
 nu = 0.556962
@@ -2331,6 +2921,8 @@ obj = -4.299212, rho = 0.903562
 nSV = 48, nBSV = 42
 Total nSV = 48
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.01
 *
 optimization finished, #iter = 30
 nu = 0.531646
@@ -2338,6 +2930,8 @@ obj = -4.105273, rho = 0.928134
 nSV = 45, nBSV = 40
 Total nSV = 45
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.1
 *
 optimization finished, #iter = 63
 nu = 0.487179
@@ -2345,6 +2939,8 @@ obj = -3.585648, rho = 0.935822
 nSV = 56, nBSV = 25
 Total nSV = 56
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.1
 *
 optimization finished, #iter = 58
 nu = 0.512821
@@ -2352,6 +2948,8 @@ obj = -3.763805, rho = 0.933136
 nSV = 59, nBSV = 31
 Total nSV = 59
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.1
 *
 optimization finished, #iter = 62
 nu = 0.564103
@@ -2359,6 +2957,8 @@ obj = -4.031085, rho = 0.906732
 nSV = 59, nBSV = 31
 Total nSV = 59
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.1
 *
 optimization finished, #iter = 66
 nu = 0.556962
@@ -2366,6 +2966,8 @@ obj = -4.129440, rho = 0.913871
 nSV = 60, nBSV = 30
 Total nSV = 60
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 0.1
 *
 optimization finished, #iter = 58
 nu = 0.531646
@@ -2373,6 +2975,8 @@ obj = -3.937362, rho = 0.930115
 nSV = 58, nBSV = 31
 Total nSV = 58
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 130
 nu = 0.487179
@@ -2380,6 +2984,8 @@ obj = -3.658914, rho = 0.965460
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 123
 nu = 0.512821
@@ -2387,6 +2993,8 @@ obj = -3.826844, rho = 0.963456
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 109
 nu = 0.564103
@@ -2394,6 +3002,8 @@ obj = -4.194486, rho = 0.958040
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 113
 nu = 0.556962
@@ -2401,6 +3011,8 @@ obj = -4.204400, rho = 0.958935
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 1
 .*
 optimization finished, #iter = 111
 nu = 0.531646
@@ -2408,6 +3020,8 @@ obj = -4.018607, rho = 0.961010
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 151
 nu = 0.487179
@@ -2415,6 +3029,8 @@ obj = -3.674113, rho = 0.967796
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 128
 nu = 0.512821
@@ -2422,6 +3038,8 @@ obj = -3.861316, rho = 0.965517
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 136
 nu = 0.564103
@@ -2429,6 +3047,8 @@ obj = -4.238702, rho = 0.960714
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 135
 nu = 0.556962
@@ -2436,6 +3056,8 @@ obj = -4.239907, rho = 0.961403
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 10
 .*
 optimization finished, #iter = 136
 nu = 0.531646
@@ -2443,6 +3065,8 @@ obj = -4.052315, rho = 0.963792
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 151
 nu = 0.487179
@@ -2450,6 +3074,8 @@ obj = -3.674404, rho = 0.967797
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 128
 nu = 0.512821
@@ -2457,6 +3083,8 @@ obj = -3.865515, rho = 0.965517
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 136
 nu = 0.564103
@@ -2464,6 +3092,8 @@ obj = -4.246782, rho = 0.960714
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 135
 nu = 0.556962
@@ -2471,6 +3101,8 @@ obj = -4.247539, rho = 0.961404
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 0.1, gamma: 100
 .*
 optimization finished, #iter = 136
 nu = 0.531646
@@ -2478,6 +3110,8 @@ obj = -4.056978, rho = 0.963793
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 20
 nu = 0.487179
@@ -2485,6 +3119,8 @@ obj = -37.909163, rho = 0.983588
 nSV = 38, nBSV = 38
 Total nSV = 38
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 23
 nu = 0.512821
@@ -2492,6 +3128,8 @@ obj = -39.886619, rho = 0.980594
 nSV = 40, nBSV = 40
 Total nSV = 40
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 24
 nu = 0.564103
@@ -2499,6 +3137,8 @@ obj = -43.836051, rho = 0.979279
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 25
 nu = 0.556962
@@ -2506,6 +3146,8 @@ obj = -43.874912, rho = 0.977795
 nSV = 45, nBSV = 43
 Total nSV = 45
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.0001
 *
 optimization finished, #iter = 25
 nu = 0.531646
@@ -2513,6 +3155,8 @@ obj = -41.885115, rho = 0.983141
 nSV = 43, nBSV = 41
 Total nSV = 43
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.001
 *
 optimization finished, #iter = 21
 nu = 0.487179
@@ -2520,6 +3164,8 @@ obj = -37.101929, rho = 0.840040
 nSV = 39, nBSV = 37
 Total nSV = 39
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.001
 *
 optimization finished, #iter = 24
 nu = 0.512821
@@ -2527,6 +3173,8 @@ obj = -38.884682, rho = 0.809583
 nSV = 41, nBSV = 39
 Total nSV = 41
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.001
 *
 optimization finished, #iter = 24
 nu = 0.564103
@@ -2534,6 +3182,8 @@ obj = -42.382727, rho = 0.797780
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.001
 *
 optimization finished, #iter = 25
 nu = 0.556962
@@ -2541,6 +3191,8 @@ obj = -42.765537, rho = 0.782876
 nSV = 45, nBSV = 43
 Total nSV = 45
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.001
 *
 optimization finished, #iter = 30
 nu = 0.531646
@@ -2548,6 +3200,8 @@ obj = -40.866278, rho = 0.834959
 nSV = 43, nBSV = 40
 Total nSV = 43
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.01
 *
 optimization finished, #iter = 35
 nu = 0.484466
@@ -2555,6 +3209,8 @@ obj = -30.372606, rho = 0.286965
 nSV = 41, nBSV = 35
 Total nSV = 41
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.01
 *
 optimization finished, #iter = 32
 nu = 0.485651
@@ -2562,6 +3218,8 @@ obj = -31.317470, rho = 0.230782
 nSV = 41, nBSV = 34
 Total nSV = 41
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.01
 *
 optimization finished, #iter = 29
 nu = 0.509421
@@ -2569,6 +3227,8 @@ obj = -31.511965, rho = 0.391991
 nSV = 41, nBSV = 37
 Total nSV = 41
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.01
 *
 optimization finished, #iter = 36
 nu = 0.516167
@@ -2576,6 +3236,8 @@ obj = -34.721995, rho = 0.274370
 nSV = 44, nBSV = 38
 Total nSV = 44
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.01
 *
 optimization finished, #iter = 42
 nu = 0.508249
@@ -2583,6 +3245,8 @@ obj = -32.711991, rho = 0.406564
 nSV = 45, nBSV = 37
 Total nSV = 45
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.1
 *.*
 optimization finished, #iter = 93
 nu = 0.390029
@@ -2590,6 +3254,8 @@ obj = -21.302319, rho = 0.580115
 nSV = 55, nBSV = 17
 Total nSV = 55
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.1
 *.*
 optimization finished, #iter = 81
 nu = 0.414534
@@ -2597,6 +3263,8 @@ obj = -21.754530, rho = 0.568168
 nSV = 56, nBSV = 24
 Total nSV = 56
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.1
 *.*
 optimization finished, #iter = 89
 nu = 0.397728
@@ -2604,6 +3272,8 @@ obj = -21.630564, rho = 0.527380
 nSV = 55, nBSV = 18
 Total nSV = 55
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1, gamma: 0.1
 *.*
 optimization finished, #iter = 92
 nu = 0.441897
@@ -2611,6 +3281,8 @@ obj = -23.802610, rho = 0.458100
 nSV = 58, nBSV = 22
 Total nSV = 58
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 1, gamma: 0.1
 *.*
 optimization finished, #iter = 85
 nu = 0.416226
@@ -2618,6 +3290,8 @@ obj = -22.939092, rho = 0.566600
 nSV = 52, nBSV = 20
 Total nSV = 52
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 159
 nu = 0.481823
@@ -2625,6 +3299,8 @@ obj = -23.913908, rho = 0.658368
 nSV = 78, nBSV = 18
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 159
 nu = 0.481290
@@ -2632,6 +3308,8 @@ obj = -23.352914, rho = 0.655987
 nSV = 78, nBSV = 16
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 1, gamma: 1
 .*
 optimization finished, #iter = 149
 nu = 0.510298
@@ -2639,6 +3317,8 @@ obj = -24.606072, rho = 0.619726
 nSV = 77, nBSV = 17
 Total nSV = 77
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.515912
@@ -2646,6 +3326,8 @@ obj = -25.228643, rho = 0.618649
 nSV = 79, nBSV = 17
 Total nSV = 79
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 1, gamma: 1
 .*.*
 optimization finished, #iter = 159
 nu = 0.498249
@@ -2653,6 +3335,8 @@ obj = -24.447222, rho = 0.634687
 nSV = 79, nBSV = 18
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 197
 nu = 0.487179
@@ -2660,6 +3344,8 @@ obj = -25.411592, rho = 0.677964
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 166
 nu = 0.512821
@@ -2667,6 +3353,8 @@ obj = -26.131772, rho = 0.655169
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 175
 nu = 0.564103
@@ -2674,6 +3362,8 @@ obj = -27.870551, rho = 0.607137
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 159
 nu = 0.556962
@@ -2681,6 +3371,8 @@ obj = -27.991138, rho = 0.614034
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1, gamma: 10
 .*.*
 optimization finished, #iter = 185
 nu = 0.531646
@@ -2688,6 +3380,8 @@ obj = -27.231895, rho = 0.637918
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 198
 nu = 0.487179
@@ -2695,6 +3389,8 @@ obj = -25.440673, rho = 0.677966
 nSV = 78, nBSV = 19
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 179
 nu = 0.512821
@@ -2702,6 +3398,8 @@ obj = -26.551685, rho = 0.655172
 nSV = 78, nBSV = 20
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 186
 nu = 0.564103
@@ -2709,6 +3407,8 @@ obj = -28.678499, rho = 0.607143
 nSV = 78, nBSV = 22
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 193
 nu = 0.556962
@@ -2716,6 +3416,8 @@ obj = -28.754327, rho = 0.614035
 nSV = 79, nBSV = 22
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1, gamma: 100
 .*.*
 optimization finished, #iter = 197
 nu = 0.531646
@@ -2723,6 +3425,8 @@ obj = -27.698183, rho = 0.637931
 nSV = 79, nBSV = 21
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.0001
 *
 optimization finished, #iter = 21
 nu = 0.487179
@@ -2730,6 +3434,8 @@ obj = -370.917437, rho = 0.835883
 nSV = 39, nBSV = 37
 Total nSV = 39
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.0001
 *
 optimization finished, #iter = 24
 nu = 0.512821
@@ -2737,6 +3443,8 @@ obj = -388.677732, rho = 0.805940
 nSV = 41, nBSV = 39
 Total nSV = 41
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.0001
 *
 optimization finished, #iter = 24
 nu = 0.564103
@@ -2744,6 +3452,8 @@ obj = -423.605087, rho = 0.792793
 nSV = 44, nBSV = 44
 Total nSV = 44
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.0001
 *
 optimization finished, #iter = 25
 nu = 0.556962
@@ -2751,6 +3461,8 @@ obj = -427.491227, rho = 0.777954
 nSV = 45, nBSV = 43
 Total nSV = 45
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.0001
 *
 optimization finished, #iter = 28
 nu = 0.531646
@@ -2758,6 +3470,8 @@ obj = -408.512863, rho = 0.831057
 nSV = 43, nBSV = 40
 Total nSV = 43
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.001
 *
 optimization finished, #iter = 23
 nu = 0.462683
@@ -2765,6 +3479,8 @@ obj = -292.366352, rho = -0.366237
 nSV = 38, nBSV = 34
 Total nSV = 38
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.001
 *
 optimization finished, #iter = 34
 nu = 0.462070
@@ -2772,6 +3488,8 @@ obj = -303.553810, rho = -0.202779
 nSV = 38, nBSV = 34
 Total nSV = 38
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.001
 *
 optimization finished, #iter = 37
 nu = 0.486544
@@ -2779,6 +3497,8 @@ obj = -303.388558, rho = -0.149890
 nSV = 39, nBSV = 34
 Total nSV = 39
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.001
 *
 optimization finished, #iter = 29
 nu = 0.491991
@@ -2786,6 +3506,8 @@ obj = -339.046509, rho = -0.361413
 nSV = 41, nBSV = 37
 Total nSV = 41
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.001
 *
 optimization finished, #iter = 38
 nu = 0.488938
@@ -2793,6 +3515,8 @@ obj = -315.351437, rho = -0.212664
 nSV = 42, nBSV = 35
 Total nSV = 42
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.01
 .*
 optimization finished, #iter = 130
 nu = 0.277632
@@ -2800,6 +3524,8 @@ obj = -182.322711, rho = 0.025832
 nSV = 31, nBSV = 17
 Total nSV = 31
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.01
 .*
 optimization finished, #iter = 113
 nu = 0.302712
@@ -2807,6 +3533,8 @@ obj = -188.486609, rho = -0.168639
 nSV = 31, nBSV = 20
 Total nSV = 31
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.01
 *
 optimization finished, #iter = 68
 nu = 0.295786
@@ -2814,6 +3542,8 @@ obj = -193.345942, rho = -0.280930
 nSV = 31, nBSV = 18
 Total nSV = 31
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.01
 .*
 optimization finished, #iter = 149
 nu = 0.350422
@@ -2821,6 +3551,8 @@ obj = -227.611097, rho = -0.405235
 nSV = 39, nBSV = 23
 Total nSV = 39
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.01
 .*
 optimization finished, #iter = 146
 nu = 0.308474
@@ -2828,6 +3560,8 @@ obj = -199.045084, rho = 0.164827
 nSV = 34, nBSV = 18
 Total nSV = 34
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.1
 .*
 optimization finished, #iter = 155
 nu = 0.110836
@@ -2835,6 +3569,8 @@ obj = -43.365068, rho = 0.447627
 nSV = 51, nBSV = 1
 Total nSV = 51
 Accuracy = 100% (20/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.1
 .*.*
 optimization finished, #iter = 157
 nu = 0.087837
@@ -2842,6 +3578,8 @@ obj = -34.912256, rho = 0.507659
 nSV = 49, nBSV = 1
 Total nSV = 49
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.1
 .*
 optimization finished, #iter = 137
 nu = 0.112229
@@ -2849,6 +3587,8 @@ obj = -45.243980, rho = 0.429015
 nSV = 46, nBSV = 1
 Total nSV = 46
 Accuracy = 95% (19/20) (classification)
+
+Training with normalization, C: 10, gamma: 0.1
 .*
 optimization finished, #iter = 153
 nu = 0.102224
@@ -2856,6 +3596,8 @@ obj = -42.242694, rho = 0.343398
 nSV = 48, nBSV = 2
 Total nSV = 48
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 10, gamma: 0.1
 .*.*
 optimization finished, #iter = 177
 nu = 0.104503
@@ -2863,6 +3605,8 @@ obj = -42.528591, rho = 0.421653
 nSV = 49, nBSV = 1
 Total nSV = 49
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 10, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.067367
@@ -2870,6 +3614,8 @@ obj = -26.273098, rho = 0.522347
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10, gamma: 1
 .*.*
 optimization finished, #iter = 159
 nu = 0.065643
@@ -2877,6 +3623,8 @@ obj = -25.601932, rho = 0.529152
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 10, gamma: 1
 .*.*
 optimization finished, #iter = 158
 nu = 0.068535
@@ -2884,6 +3632,8 @@ obj = -26.729637, rho = 0.487679
 nSV = 77, nBSV = 0
 Total nSV = 77
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.069314
@@ -2891,6 +3641,8 @@ obj = -27.379607, rho = 0.486091
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 10, gamma: 1
 .*
 optimization finished, #iter = 123
 nu = 0.067602
@@ -2898,6 +3650,8 @@ obj = -26.703417, rho = 0.501849
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 190
 nu = 0.073540
@@ -2905,6 +3659,8 @@ obj = -28.678851, rho = 0.513915
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 10, gamma: 10
 *.*
 optimization finished, #iter = 135
 nu = 0.074504
@@ -2912,6 +3668,8 @@ obj = -29.055855, rho = 0.499032
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 194
 nu = 0.077816
@@ -2919,6 +3677,8 @@ obj = -30.348598, rho = 0.458050
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 179
 nu = 0.077362
@@ -2926,6 +3686,8 @@ obj = -30.556568, rho = 0.463918
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10, gamma: 10
 .*.*
 optimization finished, #iter = 198
 nu = 0.076189
@@ -2933,6 +3695,8 @@ obj = -30.095348, rho = 0.481095
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.073718
@@ -2940,6 +3704,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.076262
@@ -2947,6 +3713,8 @@ obj = -29.743504, rho = 0.487181
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.080994
@@ -2954,6 +3722,8 @@ obj = -31.589596, rho = 0.435900
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.080367
@@ -2961,6 +3731,8 @@ obj = -31.746715, rho = 0.443040
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.078053
@@ -2968,6 +3740,8 @@ obj = -30.835244, rho = 0.468358
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.0001
 *
 optimization finished, #iter = 22
 nu = 0.461364
@@ -2975,6 +3749,8 @@ obj = -2916.622080, rho = -0.378798
 nSV = 38, nBSV = 34
 Total nSV = 38
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.0001
 *
 optimization finished, #iter = 42
 nu = 0.460370
@@ -2982,6 +3758,8 @@ obj = -3029.557786, rho = -0.205475
 nSV = 38, nBSV = 34
 Total nSV = 38
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.0001
 *
 optimization finished, #iter = 41
 nu = 0.484453
@@ -2989,6 +3767,8 @@ obj = -3025.049636, rho = -0.163572
 nSV = 39, nBSV = 34
 Total nSV = 39
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.0001
 *
 optimization finished, #iter = 32
 nu = 0.490564
@@ -2996,6 +3776,8 @@ obj = -3387.687509, rho = -0.370541
 nSV = 41, nBSV = 37
 Total nSV = 41
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.0001
 *
 optimization finished, #iter = 32
 nu = 0.487408
@@ -3003,6 +3785,8 @@ obj = -3145.516893, rho = -0.247565
 nSV = 41, nBSV = 35
 Total nSV = 41
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.001
 *.*
 optimization finished, #iter = 107
 nu = 0.274046
@@ -3010,6 +3794,8 @@ obj = -1897.520541, rho = -1.086620
 nSV = 26, nBSV = 16
 Total nSV = 26
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.001
 .*.*
 optimization finished, #iter = 190
 nu = 0.303784
@@ -3017,6 +3803,8 @@ obj = -2007.051019, rho = -0.810322
 nSV = 30, nBSV = 19
 Total nSV = 30
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.001
 *
 optimization finished, #iter = 61
 nu = 0.292117
@@ -3024,6 +3812,8 @@ obj = -2050.408497, rho = -1.455237
 nSV = 27, nBSV = 18
 Total nSV = 27
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.001
 .*.*
 optimization finished, #iter = 188
 nu = 0.347603
@@ -3031,6 +3821,8 @@ obj = -2491.532637, rho = -0.637113
 nSV = 33, nBSV = 23
 Total nSV = 33
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.001
 *.*
 optimization finished, #iter = 108
 nu = 0.304283
@@ -3038,6 +3830,8 @@ obj = -2092.472612, rho = 0.525582
 nSV = 29, nBSV = 19
 Total nSV = 29
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.01
 ....*.*
 optimization finished, #iter = 461
 nu = 0.190123
@@ -3045,6 +3839,8 @@ obj = -1009.774661, rho = 0.291490
 nSV = 30, nBSV = 6
 Total nSV = 30
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.01
 ..*..*
 optimization finished, #iter = 376
 nu = 0.149333
@@ -3052,6 +3848,8 @@ obj = -764.303561, rho = -1.363389
 nSV = 26, nBSV = 5
 Total nSV = 26
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.01
 ...*..*
 optimization finished, #iter = 434
 nu = 0.190096
@@ -3059,6 +3857,8 @@ obj = -1058.731007, rho = -0.725870
 nSV = 28, nBSV = 5
 Total nSV = 28
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.01
 ...*..*
 optimization finished, #iter = 399
 nu = 0.219476
@@ -3066,6 +3866,8 @@ obj = -1087.419316, rho = -1.848611
 nSV = 32, nBSV = 9
 Total nSV = 32
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.01
 .....*...*
 optimization finished, #iter = 641
 nu = 0.193060
@@ -3073,6 +3875,8 @@ obj = -1054.447975, rho = -0.043523
 nSV = 31, nBSV = 7
 Total nSV = 31
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.1
 .*.*
 optimization finished, #iter = 176
 nu = 0.011119
@@ -3080,6 +3884,8 @@ obj = -43.367112, rho = 0.447386
 nSV = 51, nBSV = 0
 Total nSV = 51
 Accuracy = 100% (20/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.1
 .*.*
 optimization finished, #iter = 159
 nu = 0.008975
@@ -3087,6 +3893,8 @@ obj = -35.008282, rho = 0.517363
 nSV = 49, nBSV = 0
 Total nSV = 49
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.1
 .*
 optimization finished, #iter = 137
 nu = 0.011909
@@ -3094,6 +3902,8 @@ obj = -46.445295, rho = 0.468366
 nSV = 47, nBSV = 0
 Total nSV = 47
 Accuracy = 95% (19/20) (classification)
+
+Training with normalization, C: 100, gamma: 0.1
 .*.*
 optimization finished, #iter = 161
 nu = 0.010819
@@ -3101,6 +3911,8 @@ obj = -42.739013, rho = 0.353626
 nSV = 47, nBSV = 0
 Total nSV = 47
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 100, gamma: 0.1
 .*.*
 optimization finished, #iter = 194
 nu = 0.010871
@@ -3108,6 +3920,8 @@ obj = -42.935912, rho = 0.419209
 nSV = 49, nBSV = 0
 Total nSV = 49
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 100, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.006737
@@ -3115,6 +3929,8 @@ obj = -26.273098, rho = 0.522347
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 100, gamma: 1
 .*.*
 optimization finished, #iter = 159
 nu = 0.006564
@@ -3122,6 +3938,8 @@ obj = -25.601932, rho = 0.529152
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 100, gamma: 1
 .*.*
 optimization finished, #iter = 158
 nu = 0.006853
@@ -3129,6 +3947,8 @@ obj = -26.729637, rho = 0.487679
 nSV = 77, nBSV = 0
 Total nSV = 77
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 100, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.006931
@@ -3136,6 +3956,8 @@ obj = -27.379607, rho = 0.486091
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 100, gamma: 1
 .*
 optimization finished, #iter = 123
 nu = 0.006760
@@ -3143,6 +3965,8 @@ obj = -26.703417, rho = 0.501849
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 190
 nu = 0.007354
@@ -3150,6 +3974,8 @@ obj = -28.678851, rho = 0.513915
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 100, gamma: 10
 *.*
 optimization finished, #iter = 135
 nu = 0.007450
@@ -3157,6 +3983,8 @@ obj = -29.055855, rho = 0.499032
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 194
 nu = 0.007782
@@ -3164,6 +3992,8 @@ obj = -30.348598, rho = 0.458050
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 179
 nu = 0.007736
@@ -3171,6 +4001,8 @@ obj = -30.556568, rho = 0.463918
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 100, gamma: 10
 .*.*
 optimization finished, #iter = 198
 nu = 0.007619
@@ -3178,6 +4010,8 @@ obj = -30.095348, rho = 0.481095
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.007372
@@ -3185,6 +4019,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.007626
@@ -3192,6 +4028,8 @@ obj = -29.743504, rho = 0.487181
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.008099
@@ -3199,6 +4037,8 @@ obj = -31.589596, rho = 0.435900
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 100, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.008037
@@ -3206,6 +4046,8 @@ obj = -31.746715, rho = 0.443040
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 100, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.007805
@@ -3213,6 +4055,8 @@ obj = -30.835244, rho = 0.468358
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.0001
 .*
 optimization finished, #iter = 127
 nu = 0.273723
@@ -3220,6 +4064,8 @@ obj = -19088.735254, rho = -1.115322
 nSV = 26, nBSV = 16
 Total nSV = 26
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.0001
 .*...*
 optimization finished, #iter = 339
 nu = 0.304278
@@ -3227,6 +4073,8 @@ obj = -20245.071943, rho = -0.999707
 nSV = 30, nBSV = 19
 Total nSV = 30
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.0001
 *
 optimization finished, #iter = 53
 nu = 0.292341
@@ -3234,6 +4082,8 @@ obj = -20674.579941, rho = -1.456518
 nSV = 27, nBSV = 18
 Total nSV = 27
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.0001
 .*.*
 optimization finished, #iter = 218
 nu = 0.345857
@@ -3241,6 +4091,8 @@ obj = -25230.683138, rho = -0.232146
 nSV = 33, nBSV = 23
 Total nSV = 33
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.0001
 *.*
 optimization finished, #iter = 91
 nu = 0.303633
@@ -3248,6 +4100,8 @@ obj = -21062.224549, rho = 0.689390
 nSV = 27, nBSV = 20
 Total nSV = 27
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.001
 ......*....*
 optimization finished, #iter = 835
 nu = 0.212810
@@ -3255,6 +4109,8 @@ obj = -14746.038956, rho = 0.252533
 nSV = 26, nBSV = 10
 Total nSV = 26
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.001
 .....*..*
 optimization finished, #iter = 577
 nu = 0.214580
@@ -3262,6 +4118,8 @@ obj = -12049.416005, rho = -8.792832
 nSV = 24, nBSV = 12
 Total nSV = 24
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.001
 .....*..*
 optimization finished, #iter = 548
 nu = 0.233713
@@ -3269,6 +4127,8 @@ obj = -15610.280774, rho = -2.178702
 nSV = 26, nBSV = 12
 Total nSV = 26
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.001
 .......*........*
 optimization finished, #iter = 1231
 nu = 0.275321
@@ -3276,6 +4136,8 @@ obj = -18749.914397, rho = -3.408391
 nSV = 32, nBSV = 15
 Total nSV = 32
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.001
 .....*...*
 optimization finished, #iter = 694
 nu = 0.230568
@@ -3283,6 +4145,8 @@ obj = -15818.409512, rho = 5.789620
 nSV = 28, nBSV = 12
 Total nSV = 28
 Accuracy = 89.4737% (17/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.01
 ......*.*
 optimization finished, #iter = 613
 nu = 0.042959
@@ -3290,6 +4154,8 @@ obj = -1675.748273, rho = -0.798078
 nSV = 23, nBSV = 0
 Total nSV = 23
 Accuracy = 95% (19/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.01
 ....*...*
 optimization finished, #iter = 554
 nu = 0.034261
@@ -3297,6 +4163,8 @@ obj = -1336.382789, rho = 2.009246
 nSV = 21, nBSV = 0
 Total nSV = 21
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.01
 .......*...*
 optimization finished, #iter = 799
 nu = 0.049801
@@ -3304,6 +4172,8 @@ obj = -1942.512603, rho = 4.229892
 nSV = 25, nBSV = 0
 Total nSV = 25
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.01
 ......*..*
 optimization finished, #iter = 664
 nu = 0.044353
@@ -3311,6 +4181,8 @@ obj = -1752.255912, rho = -1.495944
 nSV = 28, nBSV = 0
 Total nSV = 28
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.01
 ......*..*
 optimization finished, #iter = 683
 nu = 0.038911
@@ -3318,6 +4190,8 @@ obj = -1537.147905, rho = -0.374461
 nSV = 25, nBSV = 0
 Total nSV = 25
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.1
 .*.*
 optimization finished, #iter = 176
 nu = 0.001112
@@ -3325,6 +4199,8 @@ obj = -43.367112, rho = 0.447386
 nSV = 51, nBSV = 0
 Total nSV = 51
 Accuracy = 100% (20/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.1
 .*.*
 optimization finished, #iter = 159
 nu = 0.000897
@@ -3332,6 +4208,8 @@ obj = -35.008282, rho = 0.517363
 nSV = 49, nBSV = 0
 Total nSV = 49
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.1
 .*
 optimization finished, #iter = 137
 nu = 0.001191
@@ -3339,6 +4217,8 @@ obj = -46.445295, rho = 0.468366
 nSV = 47, nBSV = 0
 Total nSV = 47
 Accuracy = 95% (19/20) (classification)
+
+Training with normalization, C: 1000, gamma: 0.1
 .*.*
 optimization finished, #iter = 161
 nu = 0.001082
@@ -3346,6 +4226,8 @@ obj = -42.739013, rho = 0.353626
 nSV = 47, nBSV = 0
 Total nSV = 47
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 1000, gamma: 0.1
 .*.*
 optimization finished, #iter = 194
 nu = 0.001087
@@ -3353,6 +4235,8 @@ obj = -42.935912, rho = 0.419209
 nSV = 49, nBSV = 0
 Total nSV = 49
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 1000, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.000674
@@ -3360,6 +4244,8 @@ obj = -26.273098, rho = 0.522347
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1000, gamma: 1
 .*.*
 optimization finished, #iter = 159
 nu = 0.000656
@@ -3367,6 +4253,8 @@ obj = -25.601932, rho = 0.529152
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 1000, gamma: 1
 .*.*
 optimization finished, #iter = 158
 nu = 0.000685
@@ -3374,6 +4262,8 @@ obj = -26.729637, rho = 0.487679
 nSV = 77, nBSV = 0
 Total nSV = 77
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1000, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.000693
@@ -3381,6 +4271,8 @@ obj = -27.379607, rho = 0.486091
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 1000, gamma: 1
 .*
 optimization finished, #iter = 123
 nu = 0.000676
@@ -3388,6 +4280,8 @@ obj = -26.703417, rho = 0.501849
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 190
 nu = 0.000735
@@ -3395,6 +4289,8 @@ obj = -28.678851, rho = 0.513915
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 1000, gamma: 10
 *.*
 optimization finished, #iter = 135
 nu = 0.000745
@@ -3402,6 +4298,8 @@ obj = -29.055855, rho = 0.499032
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 194
 nu = 0.000778
@@ -3409,6 +4307,8 @@ obj = -30.348598, rho = 0.458050
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 179
 nu = 0.000774
@@ -3416,6 +4316,8 @@ obj = -30.556568, rho = 0.463918
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1000, gamma: 10
 .*.*
 optimization finished, #iter = 198
 nu = 0.000762
@@ -3423,6 +4325,8 @@ obj = -30.095348, rho = 0.481095
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.000737
@@ -3430,6 +4334,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.000763
@@ -3437,6 +4343,8 @@ obj = -29.743504, rho = 0.487181
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.000810
@@ -3444,6 +4352,8 @@ obj = -31.589596, rho = 0.435900
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 1000, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000804
@@ -3451,6 +4361,8 @@ obj = -31.746715, rho = 0.443040
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 1000, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.000781
@@ -3458,6 +4370,8 @@ obj = -30.835244, rho = 0.468358
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 73.6842% (14/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.0001
 ..........*...*
 optimization finished, #iter = 1032
 nu = 0.214182
@@ -3465,6 +4379,8 @@ obj = -157088.999693, rho = 0.337902
 nSV = 24, nBSV = 11
 Total nSV = 24
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.0001
 ...*.*
 optimization finished, #iter = 313
 nu = 0.217223
@@ -3472,6 +4388,8 @@ obj = -135753.121564, rho = -10.333485
 nSV = 24, nBSV = 13
 Total nSV = 24
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.0001
 .........*.......*
 optimization finished, #iter = 1289
 nu = 0.238307
@@ -3479,6 +4397,8 @@ obj = -169036.759247, rho = 1.526874
 nSV = 28, nBSV = 14
 Total nSV = 28
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.0001
 ............*.*
 optimization finished, #iter = 1081
 nu = 0.294689
@@ -3486,6 +4406,8 @@ obj = -215321.503315, rho = 14.764148
 nSV = 29, nBSV = 18
 Total nSV = 29
 Accuracy = 100% (19/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.0001
 .....*..........*.........*
 optimization finished, #iter = 1916
 nu = 0.234359
@@ -3493,6 +4415,8 @@ obj = -171975.350970, rho = 9.139884
 nSV = 26, nBSV = 12
 Total nSV = 26
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.001
 .............................*........*
 optimization finished, #iter = 2892
 nu = 0.150740
@@ -3500,6 +4424,8 @@ obj = -73588.844452, rho = 10.865602
 nSV = 29, nBSV = 5
 Total nSV = 29
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.001
 .....................*.............*
 optimization finished, #iter = 2704
 nu = 0.086544
@@ -3507,6 +4433,8 @@ obj = -40455.186080, rho = -10.894269
 nSV = 24, nBSV = 2
 Total nSV = 24
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.001
 ...................................*..................*
 optimization finished, #iter = 4180
 nu = 0.156389
@@ -3514,6 +4442,8 @@ obj = -71145.248196, rho = -3.033846
 nSV = 30, nBSV = 4
 Total nSV = 30
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.001
 .............................*..............*
 optimization finished, #iter = 3437
 nu = 0.167794
@@ -3521,6 +4451,8 @@ obj = -77401.511452, rho = -35.026514
 nSV = 31, nBSV = 6
 Total nSV = 31
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.001
 .............................*.........*
 optimization finished, #iter = 3072
 nu = 0.165870
@@ -3528,6 +4460,8 @@ obj = -77582.658240, rho = 2.751899
 nSV = 25, nBSV = 4
 Total nSV = 25
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.01
 ......*.*
 optimization finished, #iter = 613
 nu = 0.004296
@@ -3535,6 +4469,8 @@ obj = -1675.748273, rho = -0.798078
 nSV = 23, nBSV = 0
 Total nSV = 23
 Accuracy = 95% (19/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.01
 ....*...*
 optimization finished, #iter = 554
 nu = 0.003426
@@ -3542,6 +4478,8 @@ obj = -1336.382789, rho = 2.009246
 nSV = 21, nBSV = 0
 Total nSV = 21
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.01
 .......*...*
 optimization finished, #iter = 799
 nu = 0.004980
@@ -3549,6 +4487,8 @@ obj = -1942.512603, rho = 4.229892
 nSV = 25, nBSV = 0
 Total nSV = 25
 Accuracy = 85% (17/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.01
 ......*..*
 optimization finished, #iter = 664
 nu = 0.004435
@@ -3556,6 +4496,8 @@ obj = -1752.255912, rho = -1.495944
 nSV = 28, nBSV = 0
 Total nSV = 28
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.01
 ......*..*
 optimization finished, #iter = 683
 nu = 0.003891
@@ -3563,6 +4505,8 @@ obj = -1537.147905, rho = -0.374461
 nSV = 25, nBSV = 0
 Total nSV = 25
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.1
 .*.*
 optimization finished, #iter = 176
 nu = 0.000111
@@ -3570,6 +4514,8 @@ obj = -43.367112, rho = 0.447386
 nSV = 51, nBSV = 0
 Total nSV = 51
 Accuracy = 100% (20/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.1
 .*.*
 optimization finished, #iter = 159
 nu = 0.000090
@@ -3577,6 +4523,8 @@ obj = -35.008282, rho = 0.517363
 nSV = 49, nBSV = 0
 Total nSV = 49
 Accuracy = 90% (18/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.1
 .*
 optimization finished, #iter = 137
 nu = 0.000119
@@ -3584,6 +4532,8 @@ obj = -46.445295, rho = 0.468366
 nSV = 47, nBSV = 0
 Total nSV = 47
 Accuracy = 95% (19/20) (classification)
+
+Training with normalization, C: 10000, gamma: 0.1
 .*.*
 optimization finished, #iter = 161
 nu = 0.000108
@@ -3591,6 +4541,8 @@ obj = -42.739013, rho = 0.353626
 nSV = 47, nBSV = 0
 Total nSV = 47
 Accuracy = 94.7368% (18/19) (classification)
+
+Training with normalization, C: 10000, gamma: 0.1
 .*.*
 optimization finished, #iter = 194
 nu = 0.000109
@@ -3598,6 +4550,8 @@ obj = -42.935912, rho = 0.419209
 nSV = 49, nBSV = 0
 Total nSV = 49
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 10000, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.000067
@@ -3605,6 +4559,8 @@ obj = -26.273098, rho = 0.522347
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10000, gamma: 1
 .*.*
 optimization finished, #iter = 159
 nu = 0.000066
@@ -3612,6 +4568,8 @@ obj = -25.601932, rho = 0.529152
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 10000, gamma: 1
 .*.*
 optimization finished, #iter = 158
 nu = 0.000069
@@ -3619,6 +4577,8 @@ obj = -26.729637, rho = 0.487679
 nSV = 77, nBSV = 0
 Total nSV = 77
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10000, gamma: 1
 .*
 optimization finished, #iter = 151
 nu = 0.000069
@@ -3626,6 +4586,8 @@ obj = -27.379607, rho = 0.486091
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 84.2105% (16/19) (classification)
+
+Training with normalization, C: 10000, gamma: 1
 .*
 optimization finished, #iter = 123
 nu = 0.000068
@@ -3633,6 +4595,8 @@ obj = -26.703417, rho = 0.501849
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 190
 nu = 0.000074
@@ -3640,6 +4604,8 @@ obj = -28.678851, rho = 0.513915
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 10000, gamma: 10
 *.*
 optimization finished, #iter = 135
 nu = 0.000075
@@ -3647,6 +4613,8 @@ obj = -29.055855, rho = 0.499032
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 75% (15/20) (classification)
+
+Training with normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 194
 nu = 0.000078
@@ -3654,6 +4622,8 @@ obj = -30.348598, rho = 0.458050
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 179
 nu = 0.000077
@@ -3661,6 +4631,8 @@ obj = -30.556568, rho = 0.463918
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10000, gamma: 10
 .*.*
 optimization finished, #iter = 198
 nu = 0.000076
@@ -3668,6 +4640,8 @@ obj = -30.095348, rho = 0.481095
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 217
 nu = 0.000074
@@ -3675,6 +4649,8 @@ obj = -28.743586, rho = 0.512821
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 65% (13/20) (classification)
+
+Training with normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 218
 nu = 0.000076
@@ -3682,6 +4658,8 @@ obj = -29.743504, rho = 0.487181
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 70% (14/20) (classification)
+
+Training with normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 200
 nu = 0.000081
@@ -3689,6 +4667,8 @@ obj = -31.589596, rho = 0.435900
 nSV = 78, nBSV = 0
 Total nSV = 78
 Accuracy = 80% (16/20) (classification)
+
+Training with normalization, C: 10000, gamma: 100
 ..*.*
 optimization finished, #iter = 238
 nu = 0.000080
@@ -3696,6 +4676,8 @@ obj = -31.746715, rho = 0.443040
 nSV = 79, nBSV = 0
 Total nSV = 79
 Accuracy = 78.9474% (15/19) (classification)
+
+Training with normalization, C: 10000, gamma: 100
 .*.*
 optimization finished, #iter = 163
 nu = 0.000078
@@ -3956,6 +4938,8 @@ gamma: 0.1
 Accuracy: 93.8775510204%
 RMS Error: 0.494871659305
 
+
+Training with normalization, C: 10, gamma: 0.1
 .*
 optimization finished, #iter = 183
 nu = 0.100630

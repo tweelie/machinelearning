@@ -14,7 +14,7 @@ def parse(filename):
         cols = string.split(line)
         xs += [map(float, cols[:-1])]
         ts += [int(cols[-1])]
-    return (xs, map(lambda x: (x*2)-1, ts))
+    return (xs, map(lambda t: (t*2)-1, ts)) # ts mapped from [0, 1] -> [-1, 1]
 
 def mean_and_var(list):
     mean = sum(list)/len(list)
@@ -40,12 +40,14 @@ def partition(folds):
 # print(str(map(partition(5), (test_li, test_li[::-1]))))
 
 def raw_eval((train_xs, test_xs), (train_ts, test_ts), c, gamma):
+    print("\nTraining without normalization, C: "+str(c)+", gamma: "+str(gamma))
     param = svm.svm_parameter('-s '+str(svm.C_SVC)+' -t '+str(svm.RBF)+' -g '+str(gamma)+' -c '+str(c))
     prob = svm.svm_problem(train_ts, train_xs)
     model = svm.svm_train(prob, param)
     return svm.svm_predict(test_ts, test_xs, model)
 
 def norm_eval((train_xs, test_xs), (train_ts, test_ts), c, gamma):
+    print("\nTraining with normalization, C: "+str(c)+", gamma: "+str(gamma))
     fun_norm = many_normalizer(np.matrix(train_xs))
     norm_train_xs = fun_norm(np.matrix(train_xs)).A.tolist()
     norm_test_xs = fun_norm(np.matrix(test_xs)).A.tolist()
