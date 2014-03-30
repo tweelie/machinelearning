@@ -28,11 +28,12 @@ class NeuronLayer:
         if (nl_next != None):
             nl_next.prev = self
     def gradient(self):
+        # print("error_deriv_w: "+str(self.error_deriv_w))
         if (self.next == None):
-            return [self.error_deriv_w/self.samples]
-        return [self.error_deriv_w/self.samples]+self.next.gradient()
+            return [self.error_deriv_w]#/self.samples]
+        return [self.error_deriv_w]+self.next.gradient()
     def apply_and_reset(self, eta):
-        self.in_weights = (np.matrix(self.in_weights)-(eta*self.error_deriv_w/self.samples)).A.tolist()
+        self.in_weights = (np.matrix(self.in_weights)-(eta*self.error_deriv_w)).A.tolist()#/self.samples)).A.tolist()
         self.error_deriv_w = np.matrix([[.0]*len(self.ins)]*len(self.outs))
         self.samples = 0
         if(self.next != None):
@@ -71,7 +72,7 @@ class NeuronLayer:
         # print("as: "+str(self.activs))
         # print("ws: "+str(self.in_weights))
         # print("next.deltas: "+str(self.next.deltas))
-        self.deltas = map(mult, zip(map(self.act_deriv, self.activs), map(weighted_sum(self.next.deltas), np.matrix(self.in_weights).A.tolist())))
+        self.deltas = map(mult, zip(map(self.act_deriv, self.activs), map(weighted_sum(self.next.deltas), np.matrix(self.next.in_weights).T.A.tolist())))
         # print("deltas: "+str(self.deltas))
         err_dw = np.matrix(map(lambda (delta, xs): map(lambda x: delta*x, xs), zip(self.deltas, [self.ins]*len(self.deltas))))
         # print("err_dw: "+str(err_dw))
@@ -86,10 +87,10 @@ def init_network(weights, activation_funs, actfun_derivations):
 
 def s_error(ys, ts):
     err = np.matrix(ys)-np.matrix(ts)
-    return (err.T*err).A1[0]/2.0
+    return .5*(err*err.T).A1[0]
 
 def ms_error(ysli, tsli):
-    return sum(map(s_error, ysli, tsli))/len(ysli)
+    return sum(map(s_error, ysli, tsli))#/len(ysli)
 
 def train_pattern(network, xs, ts):
     ys = network.forward(xs)
@@ -97,17 +98,17 @@ def train_pattern(network, xs, ts):
     return ys
 
 # hidden_ws = [[1, 1], [1, 1], [1, 1]]
-hidden_ws = [[1, 1]]
+hidden_ws = [[.1, .1]]
 hidden_activ = lambda a: a/(1+abs(a))
-hidden_activ_deriv = lambda a: 1/math.pow(1+abs(a), 2)
+hidden_activ_deriv = lambda a: (1+abs(a))**-2
 # output_ws = [[1, 1, 1, 1]]
-output_ws = [[1, 1]]
+output_ws = [[.1, .1]]
 output_activ = id
 output_activ_deriv = None
 network = init_network([hidden_ws, output_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
 samples = map(lambda x: (x, (math.sin(x)/x)+np.random.normal(0, .004, 1)[0]), (np.random.rand(1000)*32).tolist())
 
-e = 2**-22
+e = 2**-29
 # hidden_e = [[0, 1],[2, 3],[4, 5]]
 hidden_e = [[0, 1]]
 # output_e = [[6, 7, 8, 9]]
@@ -126,10 +127,10 @@ grad_bp = network.gradient()
 # grad_num = [.0, .1, .2, .3, .4, .5, .6, .7, .8, .9]
 grad_num = [.0, .1, .2, .3]
 for i in range(4):
-    network.apply_and_reset(1.0)
+    # network.apply_and_reset(1.0)
     network.set_weights([(np.matrix(hidden_ws)+np.matrix(e_setter(hidden_e, i))).A.tolist(),
                         (np.matrix(output_ws)+np.matrix(e_setter(output_e, i))).A.tolist()])
-    yslii = map(lambda (x, t): train_pattern(network, [x], [t]), samples)
+    yslii = map(lambda (x, t): network.forward([x]), samples)
     erri = ms_error(yslii, tsli)
     grad_num[i] = (erri - err0)/e
 
@@ -247,11 +248,15 @@ network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_ac
 print("\nEta: 0.01")
 trainer(network_20, "20 neurons, eta = .01", "img/n_20_eta_001.png", 0.01, 5*10**-9)
 plot.figure(8)
+network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
+print("\nEta: 0.001")
+trainer(network_20, "20 neurons, eta = .001", "img/n_20_eta_0001.png", 0.001, 5*10**-12)
+plot.figure(9)
 
 network_20 = init_network([hidden_20_ws, output_20_ws], [hidden_activ, output_activ], [hidden_activ_deriv, output_activ_deriv])
-for i in range(30):
+for i in range(350):
     map(lambda (x, t): train_pattern(network_20, x, [t]), zip(train[0], train[1]))
-    network_20.apply_and_reset(.01)
+    network_20.apply_and_reset(.001)
 
 sinc = lambda x: math.sin(x)/x
 net2 = lambda x: (network_2.forward([x]))[0]
